@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-18T18:31:55.753Z",
+  "tests": 4,
+  "cases": [
+    "JavaScript enables the form; invalid inputs do not prepare a draft.",
+    "Valid enquiries prepare the supplied recipient, topic and complete message.",
+    "Unicode, ampersands and line breaks survive encoding; status never claims delivery.",
+    "Blank topics use General enquiry; message text cannot add URL headers."
+  ],
+  "recipient": "contact@4xvalley.com",
+  "scope": "Actual website form handler in a simulated DOM with captured mailto navigation. No external email app was opened and no email was sent."
+}

@@ -1,3 +1,9 @@
+2.2.0 — 18 November 2026
+Replaced the Contact page operator placeholder section with a labelled enquiry
+form addressed to contact@4xvalley.com. The static-site form prepares an email
+draft for the visitor to review and send; no website-side delivery is claimed.
+Updated related contact links and the privacy explanation.
+
 2.1.2 — 18 November 2026
 Removed the draft badge and empty legal placeholder panel from Risk information.
 The page shows its existing educational risk explanation. Approval gates remain.

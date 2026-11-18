@@ -1,7 +1,7 @@
 {
   "name": "4X Valley",
-  "version": "2.1.2-eu-education",
-  "generatedAt": "2026-11-18T18:17:39.792Z",
+  "version": "2.2.0-eu-education",
+  "generatedAt": "2026-11-18T18:30:43.475Z",
   "mode": "eu-education-only",
   "origin": "https://4xvalley.com",
   "pageCount": 52,
@@ -247,8 +247,8 @@
     },
     {
       "file": "contact.html",
-      "title": "Contact information.",
-      "description": "Company and contact information for the 4X Valley education website.",
+      "title": "Contact us.",
+      "description": "Contact 4X Valley about courses, access and the learning catalogue.",
       "group": "Company and support"
     },
     {
@@ -355,7 +355,6 @@
     "company.registration",
     "company.address",
     "company.jurisdiction",
-    "contact.email",
     "contact.phone",
     "contact.careersEmail",
     "social.facebook",
@@ -371,7 +370,6 @@
     "company.registration",
     "company.address",
     "company.jurisdiction",
-    "contact.email",
     "contact.phone",
     "contact.careersEmail",
     "social.facebook",

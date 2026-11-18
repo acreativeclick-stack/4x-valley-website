@@ -1,6 +1,6 @@
 # 4X Valley education website
 
-Version **2.1.2**. Responsive static website with 52 pages, local brand assets,
+Version **2.2.0**. Responsive static website with 52 pages, local brand assets,
 Magnific hero images, risk information and opt-in device-storage controls.
 
 This snapshot is prepared for private technical review and hosting setup.
@@ -42,9 +42,18 @@ The preview is served at `http://127.0.0.1:8743/`.
 - `RISK_WARNING_AUDIT.json`: current warning, layout and default-control checks.
 - `SOCIAL_LINKS_AUDIT.json`: Facebook/Instagram page and footer checks.
 - `RISK_PAGE_AUDIT.json`: six risk-page checks after draft-panel removal; unchanged-page coverage is verified by SHA-256.
+- `CONTACT_FORM_AUDIT.json`: responsive form and native invalid-input checks.
+- `CONTACT_FORM_TEST_REPORT.json`: four email-draft tests; no real email sent.
 - `CONSENT_TEST_REPORT.json`: 13 passing consent tests.
 - `FILE_MANIFEST.sha256`: integrity hashes for the original website package files.
 
 The ZIPs are versioned deployment snapshots. After changing the source, rebuild
 and validate the site before producing replacement packages. This repository
 does not automatically deploy or publish the website.
+
+## Contact form
+
+The form prepares an email draft to **contact@4xvalley.com** using the visitor's
+email app. The visitor reviews and sends it there. Automatic website delivery
+requires a separately configured form/mail service. No enquiry is sent or saved
+by the static website itself.

@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-18T18:20:29.440Z",
-  "version": "2.1.2-eu-education",
+  "checkedAt": "2026-11-18T18:37:00.632Z",
+  "version": "2.2.0-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -48,7 +48,7 @@
   "failures": [],
   "consoleErrors": [],
   "passed": true,
-  "method": "CUA rendered DOM regression: social sections and footer links, risk notice, hero loading/layout, default control contrast, local assets and overflow at six screen widths. Incremental validation: 6 new risk-page checks; 51 unchanged pages verified by SHA-256.",
+  "method": "Current rendered coverage: 48 new page/viewport checks; prior checks for 44 byte-identical pages retained. Contact form native invalid-input checks and draft composition tests are recorded separately.",
   "checks": [
     {
       "page": "index.html",
@@ -3248,6 +3248,10 @@
         "width": 320,
         "height": 812
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -3332,9 +3336,49 @@
         "width": 320,
         "height": 812
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 56,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 56,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 56,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 211,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 28,
         "failures": [],
         "h1": 1,
@@ -3668,6 +3712,10 @@
         "width": 320,
         "height": 812
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -3751,6 +3799,10 @@
       "viewport": {
         "width": 320,
         "height": 812
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -3925,6 +3977,10 @@
         "width": 320,
         "height": 812
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -4008,6 +4064,10 @@
       "viewport": {
         "width": 320,
         "height": 812
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -4093,10 +4153,14 @@
         "width": 320,
         "height": 812
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 27,
+        "controls": 28,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -4353,6 +4417,10 @@
       "viewport": {
         "width": 320,
         "height": 812
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -7630,6 +7698,10 @@
         "width": 390,
         "height": 844
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -7714,9 +7786,49 @@
         "width": 390,
         "height": 844
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 56,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 56,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 56,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 211,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 28,
         "failures": [],
         "h1": 1,
@@ -8050,6 +8162,10 @@
         "width": 390,
         "height": 844
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -8133,6 +8249,10 @@
       "viewport": {
         "width": 390,
         "height": 844
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -8307,6 +8427,10 @@
         "width": 390,
         "height": 844
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -8390,6 +8514,10 @@
       "viewport": {
         "width": 390,
         "height": 844
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -8475,10 +8603,14 @@
         "width": 390,
         "height": 844
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 27,
+        "controls": 28,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -8735,6 +8867,10 @@
       "viewport": {
         "width": 390,
         "height": 844
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -12012,6 +12148,10 @@
         "width": 768,
         "height": 1024
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -12096,9 +12236,49 @@
         "width": 768,
         "height": 1024
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 58,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 58,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 58,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 225,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 28,
         "failures": [],
         "h1": 1,
@@ -12432,6 +12612,10 @@
         "width": 768,
         "height": 1024
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -12515,6 +12699,10 @@
       "viewport": {
         "width": 768,
         "height": 1024
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -12689,6 +12877,10 @@
         "width": 768,
         "height": 1024
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -12772,6 +12964,10 @@
       "viewport": {
         "width": 768,
         "height": 1024
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -12857,10 +13053,14 @@
         "width": 768,
         "height": 1024
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 27,
+        "controls": 28,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -13117,6 +13317,10 @@
       "viewport": {
         "width": 768,
         "height": 1024
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -16394,6 +16598,10 @@
         "width": 1024,
         "height": 900
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -16478,9 +16686,49 @@
         "width": 1024,
         "height": 900
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 58,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 58,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 58,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 225,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 28,
         "failures": [],
         "h1": 1,
@@ -16814,6 +17062,10 @@
         "width": 1024,
         "height": 900
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -16897,6 +17149,10 @@
       "viewport": {
         "width": 1024,
         "height": 900
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -17071,6 +17327,10 @@
         "width": 1024,
         "height": 900
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -17154,6 +17414,10 @@
       "viewport": {
         "width": 1024,
         "height": 900
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -17239,10 +17503,14 @@
         "width": 1024,
         "height": 900
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 27,
+        "controls": 28,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -17499,6 +17767,10 @@
       "viewport": {
         "width": 1024,
         "height": 900
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -20776,6 +21048,10 @@
         "width": 1366,
         "height": 1000
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -20860,9 +21136,49 @@
         "width": 1366,
         "height": 1000
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 58,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 58,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 58,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 225,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 35,
         "failures": [],
         "h1": 1,
@@ -21196,6 +21512,10 @@
         "width": 1366,
         "height": 1000
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -21279,6 +21599,10 @@
       "viewport": {
         "width": 1366,
         "height": 1000
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -21453,6 +21777,10 @@
         "width": 1366,
         "height": 1000
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -21536,6 +21864,10 @@
       "viewport": {
         "width": 1366,
         "height": 1000
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -21621,10 +21953,14 @@
         "width": 1366,
         "height": 1000
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 34,
+        "controls": 35,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -21881,6 +22217,10 @@
       "viewport": {
         "width": 1366,
         "height": 1000
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -25158,6 +25498,10 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
@@ -25242,9 +25586,49 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "button": "Open email draft",
+        "failures": [],
+        "fields": [
+          {
+            "id": "contact-name",
+            "label": "Your name",
+            "minHeight": 58,
+            "name": "name",
+            "required": true,
+            "type": "text"
+          },
+          {
+            "id": "contact-email",
+            "label": "Email address",
+            "minHeight": 58,
+            "name": "email",
+            "required": true,
+            "type": "email"
+          },
+          {
+            "id": "contact-topic",
+            "label": "Enquiry topic",
+            "minHeight": 58,
+            "name": "topic",
+            "required": false,
+            "type": "select-one"
+          },
+          {
+            "id": "contact-message",
+            "label": "How can we help?",
+            "minHeight": 225,
+            "name": "message",
+            "required": true,
+            "type": "textarea"
+          }
+        ],
+        "present": true,
+        "recipient": "contact@4xvalley.com"
+      },
       "controls": {
         "brokenImages": [],
-        "buttonCount": 3,
+        "buttonCount": 4,
         "controls": 35,
         "failures": [],
         "h1": 1,
@@ -25578,6 +25962,10 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -25661,6 +26049,10 @@
       "viewport": {
         "width": 1920,
         "height": 1080
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -25835,6 +26227,10 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -25918,6 +26314,10 @@
       "viewport": {
         "width": 1920,
         "height": 1080
+      },
+      "contact": {
+        "failures": [],
+        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -26003,10 +26403,14 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 4,
-        "controls": 34,
+        "controls": 35,
         "failures": [],
         "h1": 1,
         "privacyControls": true,
@@ -26264,6 +26668,10 @@
         "width": 1920,
         "height": 1080
       },
+      "contact": {
+        "failures": [],
+        "present": false
+      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -26347,15 +26755,22 @@
   "mobileMenuRestoresWarning": true,
   "navigationVerifiedAt": "2026-11-18T18:13:32.890Z",
   "incrementalValidation": {
-    "baseVersion": "2.1.1-eu-education",
+    "baseVersion": "2.1.2-eu-education",
     "recheckedPages": [
-      "risk-disclosure.html"
+      "support.html",
+      "contact.html",
+      "terms.html",
+      "privacy.html",
+      "legal-notice.html",
+      "consumer-rights.html",
+      "cookies.html",
+      "sitemap.html"
     ],
-    "newBrowserChecks": 6,
-    "unchangedPages": 51,
+    "newBrowserChecks": 48,
+    "unchangedPages": 44,
     "unchangedPageHashesVerified": true,
     "stylesAndScriptsUnchanged": true,
-    "note": "Existing coverage for 51 byte-identical HTML pages is carried forward; only the changed risk page was rechecked in this revision.",
-    "baseCheckedAt": "2026-11-18T18:10:14.090Z"
+    "note": "48 new checks across eight changed pages; previous checks for 44 byte-identical HTML pages are retained.",
+    "baseCheckedAt": "2026-11-18T18:20:29.440Z"
   }
 }

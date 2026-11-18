@@ -14,7 +14,7 @@ export default {
     jurisdiction: ''
   },
   contact: {
-    email: '',
+    email: 'contact@4xvalley.com',
     phone: '',
     careersEmail: ''
   },

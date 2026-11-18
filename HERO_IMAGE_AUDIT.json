@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-18T18:20:29.440Z",
-  "version": "2.1.2-eu-education",
+  "checkedAt": "2026-11-18T18:37:00.632Z",
+  "version": "2.2.0-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -7228,16 +7228,23 @@
     }
   ],
   "incrementalValidation": {
-    "baseVersion": "2.1.1-eu-education",
+    "baseVersion": "2.1.2-eu-education",
     "recheckedPages": [
-      "risk-disclosure.html"
+      "support.html",
+      "contact.html",
+      "terms.html",
+      "privacy.html",
+      "legal-notice.html",
+      "consumer-rights.html",
+      "cookies.html",
+      "sitemap.html"
     ],
-    "newBrowserChecks": 6,
-    "unchangedPages": 51,
+    "newBrowserChecks": 48,
+    "unchangedPages": 44,
     "unchangedPageHashesVerified": true,
     "stylesAndScriptsUnchanged": true,
-    "note": "Existing coverage for 51 byte-identical HTML pages is carried forward; only the changed risk page was rechecked in this revision.",
-    "baseCheckedAt": "2026-11-18T18:10:14.090Z"
+    "note": "48 new checks across eight changed pages; previous checks for 44 byte-identical HTML pages are retained.",
+    "baseCheckedAt": "2026-11-18T18:20:29.440Z"
   },
-  "method": "Rendered DOM page/viewport checks. Incremental validation: 6 new risk-page checks; 51 unchanged pages verified by SHA-256."
+  "method": "Current rendered coverage: 48 new page/viewport checks; prior checks for 44 byte-identical pages retained. Contact form native invalid-input checks and draft composition tests are recorded separately."
 }

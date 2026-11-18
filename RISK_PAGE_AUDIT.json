@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-11-18T18:20:29.440Z",
-  "version": "2.1.2-eu-education",
+  "version": "2.2.0-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -622,5 +622,11 @@
     "sitemap.html": "c0c51de555fc5cb1b9a57efb410cf992f249b891f65a407005563ab15a0abd22"
   },
   "riskApprovalGateRetained": true,
-  "passed": true
+  "passed": true,
+  "carriedForward": {
+    "baseVersion": "2.1.2-eu-education",
+    "baseCheckedAt": "2026-11-18T18:20:29.440Z",
+    "unchangedRiskPageSha256Verified": true,
+    "checkedAt": "2026-11-18T18:37:00.632Z"
+  }
 }

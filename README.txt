@@ -1,5 +1,5 @@
 4X VALLEY — EU EDUCATION WEBSITE HANDOFF
-Version 2.1.2 | 18 November 2026
+Version 2.2.0 | 18 November 2026
 
 STATUS: READY FOR PRIVATE TECHNICAL REVIEW / HOSTING SETUP
 NOT CLEARED FOR PUBLIC EU LAUNCH WHILE OWNER DETAILS / REVIEWS ARE PENDING.
@@ -101,7 +101,7 @@ HOSTING
    on the intended host. Host/plugin-injected tracking must be absent or gated.
 
 PUBLIC RELEASE GATE
-SITE_MANIFEST.json lists 14 placeholder fields and 3 uncompleted review flags.
+SITE_MANIFEST.json lists 13 placeholder fields and 3 uncompleted review flags.
 Fill the operator/contact details and approved legal fragments in src/legal/:
 terms.html, privacy.html, risk.html, notice.html, consumer.html.
 Set the corresponding legalApproved flags only after the text is approved.
@@ -125,15 +125,14 @@ expiry, blocked storage and Meta loader tested with simulated network only.
 BROWSER_QA.json: earlier 17 November responsive/UI/storage checks and limits.
 CONTROL_VISIBILITY_AUDIT.json: 2.0.1 text visibility regression checks for all
 52 pages, plus expanded menus and privacy preferences.
-RISK_WARNING_AUDIT.json: current 2.1.2 coverage of the warning, page layout and
+RISK_WARNING_AUDIT.json: current 2.2.0 coverage of the warning, page layout and
 default control visibility at six viewport widths on every page.
 HERO_IMAGE_AUDIT.json: current hero-image loading, responsive sizes and placement.
 HERO_IMAGE_PROVENANCE.json: Magnific creations, page mapping and credit costs.
 SOCIAL_LINKS_AUDIT.json: Facebook/Instagram page sections and shared footer links.
 RISK_PAGE_AUDIT.json: draft-panel removal on the Risk information page.
-For 2.1.2, the changed Risk information page is rechecked at six widths. The
-other 51 pages retain prior browser checks after SHA-256 byte-identity checks;
-the audit records identify this incremental validation and its baseline date.
+Changed pages are rechecked at six widths. Unchanged pages retain prior browser
+checks after SHA-256 byte-identity checks; audit records identify the baseline.
 review-previews/: current desktop/mobile screenshots. FILE_MANIFEST.sha256:
 per-file integrity. ZIP verification/checksums accompany the archives.
 
@@ -173,3 +172,13 @@ are decorative; the separate candle lesson remains the teaching diagram.
 Full-resolution PNG masters are saved beside this project in
 ../generated-hero-masters/ and retained in the Magnific 4X Valley project.
 Upload only public/ contents. Image masters are not needed by the deployed site.
+
+CONTACT FORM — VERSION 2.2.0
+The Contact page prepares an email draft to contact@4xvalley.com. The visitor
+reviews and sends it through their own email app. The website does not send or
+store the enquiry and must never display a server-delivery success claim.
+A configured email app is needed. Direct website delivery requires a separate
+mail/form service integration; no such provider is configured in this package.
+CONTACT_FORM_TEST_REPORT.json covers validation and exact draft content using
+a simulated DOM with intercepted mailto navigation; no real email was sent.
+CONTACT_FORM_AUDIT.json records the actual rendered form and native validation.

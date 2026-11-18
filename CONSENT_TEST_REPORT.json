@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checkedAt": "2026-11-18T11:21:57.523Z",
+  "checkedAt": "2026-11-18T18:31:55.747Z",
   "tests": 13,
   "cases": [
     "No stored choice grants nothing; legacy functional data is deleted without reading it",
