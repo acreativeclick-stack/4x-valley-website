@@ -1,3 +1,7 @@
+2.1.1 — 18 November 2026
+Limited the social-links page and shared social footer to Facebook and Instagram.
+Removed unused X, YouTube and LinkedIn profile placeholders.
+
 2.1.0 — 18 November 2026
 Added ten Magnific-generated editorial images to hero sections across all
 52 pages, with responsive WebP sizes and a page-specific image mapping.

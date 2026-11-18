@@ -1,5 +1,5 @@
 4X VALLEY — EU EDUCATION WEBSITE HANDOFF
-Version 2.1.0 | 18 November 2026
+Version 2.1.1 | 18 November 2026
 
 STATUS: READY FOR PRIVATE TECHNICAL REVIEW / HOSTING SETUP
 NOT CLEARED FOR PUBLIC EU LAUNCH WHILE OWNER DETAILS / REVIEWS ARE PENDING.
@@ -101,7 +101,7 @@ HOSTING
    on the intended host. Host/plugin-injected tracking must be absent or gated.
 
 PUBLIC RELEASE GATE
-SITE_MANIFEST.json lists 17 placeholder fields and 3 uncompleted review flags.
+SITE_MANIFEST.json lists 14 placeholder fields and 3 uncompleted review flags.
 Fill the operator/contact details and approved legal fragments in src/legal/:
 terms.html, privacy.html, risk.html, notice.html, consumer.html.
 Set the corresponding legalApproved flags only after the text is approved.
@@ -125,10 +125,11 @@ expiry, blocked storage and Meta loader tested with simulated network only.
 BROWSER_QA.json: earlier 17 November responsive/UI/storage checks and limits.
 CONTROL_VISIBILITY_AUDIT.json: 2.0.1 text visibility regression checks for all
 52 pages, plus expanded menus and privacy preferences.
-RISK_WARNING_AUDIT.json: current 2.1.0 checks of the warning, page layout and
+RISK_WARNING_AUDIT.json: current 2.1.1 checks of the warning, page layout and
 default control visibility at six viewport widths on every page.
 HERO_IMAGE_AUDIT.json: current hero-image loading, responsive sizes and placement.
 HERO_IMAGE_PROVENANCE.json: Magnific creations, page mapping and credit costs.
+SOCIAL_LINKS_AUDIT.json: Facebook/Instagram page sections and shared footer links.
 review-previews/: current desktop/mobile screenshots. FILE_MANIFEST.sha256:
 per-file integrity. ZIP verification/checksums accompany the archives.
 

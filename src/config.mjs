@@ -18,7 +18,7 @@ export default {
     phone: '',
     careersEmail: ''
   },
-  social: {facebook: '', x: '', instagram: '', youtube: '', linkedin: ''},
+  social: {facebook: '', instagram: ''},
   // Approved legal HTML is read from src/legal/*.html when supplied.
   legalApproved: {terms: false, privacy: false, risk: false, consumer: false, notice: false},
   review: {operatorVerified: false, curriculumReviewed: false, euNationalRequirementsReviewed: false},

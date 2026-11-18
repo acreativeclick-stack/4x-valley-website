@@ -1,10 +1,10 @@
 {
   "passed": true,
-  "checkedAt": "2026-11-18T16:54:58.293Z",
+  "checkedAt": "2026-11-18T18:08:03.273Z",
   "pages": 52,
-  "linksChecked": 4157,
+  "linksChecked": 4001,
   "assetReferencesChecked": 1448,
-  "anchorReferencesChecked": 1179,
+  "anchorReferencesChecked": 1023,
   "reachablePages": 50,
   "externalDestinations": [
     "https://4xvalley.com/",
@@ -65,8 +65,8 @@
     "https://www.metatrader5.com/en/trading-platform"
   ],
   "warnings": [
-    "17 owner-supplied fields remain placeholders by request.",
-    "Private review build: public launch remains blocked by 20 configuration/review items."
+    "14 owner-supplied fields remain placeholders by request.",
+    "Private review build: public launch remains blocked by 17 configuration/review items."
   ],
   "errors": []
 }

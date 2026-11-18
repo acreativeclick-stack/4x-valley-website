@@ -1,0 +1,6347 @@
+{
+  "checkedAt": "2026-11-18T18:10:14.090Z",
+  "version": "2.1.1-eu-education",
+  "assets": {
+    "css": "styles.4aca3aff77.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "pageCount": 52,
+  "viewportChecks": 312,
+  "viewports": [
+    {
+      "width": 320,
+      "height": 812
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "width": 1024,
+      "height": 900
+    },
+    {
+      "width": 1366,
+      "height": 1000
+    },
+    {
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "failures": [],
+  "consoleErrors": [],
+  "passed": true,
+  "checks": [
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [
+        {
+          "id": "facebook",
+          "name": "Facebook"
+        },
+        {
+          "id": "instagram",
+          "name": "Instagram"
+        }
+      ],
+      "socialPage": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "failures": [],
+      "footer": [
+        {
+          "href": "social-links.html#facebook",
+          "name": "Facebook"
+        },
+        {
+          "href": "social-links.html#instagram",
+          "name": "Instagram"
+        }
+      ],
+      "sections": [],
+      "socialPage": false
+    }
+  ]
+}
