@@ -1,0 +1,9 @@
+4X Valley hero imagery
+Generated through the user's Magnific account on 18 November 2026.
+Model: Google Nano Banana 2.1. Project: 4X Valley. Ten images, 650 credits.
+Source records, prompts and creation links: HERO_IMAGE_PROVENANCE.json in the
+source handoff. Website files are locally resized/compressed WebP derivatives.
+
+These images are illustrative editorial scenes. They do not depict the named
+trainers, an actual service team, actual software interfaces or trading results.
+The photographic chart marks are decorative, not teaching data or trade signals.

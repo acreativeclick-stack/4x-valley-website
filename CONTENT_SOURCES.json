@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://4xvalley.com/",
+    "usedFor": "Original program catalogue, recording names and trainer identities/portraits. Promotional claims, prices, broker links and credit incentives excluded from the EU education website."
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0058-20091219",
+    "usedFor": "ePrivacy Article 5(3): terminal storage/access and exceptions; implemented through national law."
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "usedFor": "GDPR Articles 7 and 13: consent, withdrawal and information duties."
+  },
+  {
+    "url": "https://www.edpb.europa.eu/system/files/documents/2023-01/edpb_20230118_report_cookie_banner_taskforce_en.pdf",
+    "usedFor": "Cookie banner taskforce findings: positive action, first-layer rejection, no pre-ticked optional choices or deceptive presentation."
+  },
+  {
+    "url": "https://www.esma.europa.eu/sites/default/files/2026-01/Finfluencers_factsheet_EN.pdf",
+    "usedFor": "Education/recommendation distinction, truthful presentation and disclosures. A disclaimer is insufficient for actual regulated advice."
+  },
+  {
+    "url": "https://www.esma.europa.eu/publications-data/questions-answers/1982",
+    "usedFor": "CFD monetary-incentive Q&A. Original account-credit promotion removed; national product-intervention rules must be checked."
+  },
+  {
+    "url": "https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_en.htm",
+    "usedFor": "Seller identity, total price, distance-contract and digital-content consumer information."
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/dir/2023/2673/oj/eng",
+    "usedFor": "Online withdrawal-function requirements; national measures apply from 19 June 2026. Actual contracting platform requires review."
+  }
+]

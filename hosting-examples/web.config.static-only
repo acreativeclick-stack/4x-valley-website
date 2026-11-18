@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Standalone static site only. Do not overwrite an existing ASP.NET web.config. -->
+<configuration>
+  <system.webServer>
+    <defaultDocument><files><clear/><add value="index.html"/></files></defaultDocument>
+    <directoryBrowse enabled="false"/>
+    <staticContent>
+      <remove fileExtension=".woff2"/><mimeMap fileExtension=".woff2" mimeType="font/woff2"/>
+      <remove fileExtension=".svg"/><mimeMap fileExtension=".svg" mimeType="image/svg+xml"/>
+    </staticContent>
+    <httpProtocol><customHeaders>
+      <remove name="X-Powered-By"/>
+      <add name="X-Content-Type-Options" value="nosniff"/>
+      <add name="Referrer-Policy" value="strict-origin-when-cross-origin"/>
+      <add name="Content-Security-Policy" value="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; media-src 'none'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'; upgrade-insecure-requests"/>
+      <!-- Staging only; remove after release approval and rebuild. -->
+      <add name="X-Robots-Tag" value="noindex, nofollow"/>
+    </customHeaders></httpProtocol>
+    <httpErrors errorMode="Custom" existingResponse="Replace">
+      <remove statusCode="404"/>
+      <error statusCode="404" path="/404.html" responseMode="ExecuteURL"/>
+    </httpErrors>
+  </system.webServer>
+</configuration>

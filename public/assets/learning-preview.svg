@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" role="img" aria-labelledby="title desc">
+<title id="title">One candle. Four prices.</title><desc id="desc">An illustrative candlestick with its high, close, open and low labelled. This is a teaching diagram, not market data.</desc>
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#e1d6e8" stroke-opacity=".08"/></pattern></defs>
+<rect width="1440" height="810" fill="#21102e"/><rect x="600" y="130" width="750" height="570" fill="url(#grid)"/>
+<g font-family="Inter,Arial,sans-serif"><text x="80" y="100" fill="#d6b96f" font-size="20" letter-spacing="4">4X VALLEY / THE LEARNING ROOM</text>
+<text x="80" y="285" fill="#f8f5ed" font-size="72" font-weight="600" letter-spacing="-3">One candle.</text><text x="80" y="375" fill="#f8f5ed" font-size="72" font-weight="600" letter-spacing="-3">Four prices.</text>
+<text x="84" y="460" fill="#bca9cd" font-size="26">Read the parts before</text><text x="84" y="500" fill="#bca9cd" font-size="26">you interpret the chart.</text>
+<path d="M84 580H460" stroke="#6e577c"/><text x="84" y="630" fill="#d6b96f" font-size="19" letter-spacing="2">01 / CHART FOUNDATIONS</text>
+<g opacity=".35" stroke="#ac91c1" stroke-width="3"><path d="M655 310V510M735 240V460M1230 320V550M1310 280V530"/><rect x="640" y="370" width="30" height="80" fill="#21102e"/><rect x="720" y="300" width="30" height="90" fill="#ac91c1"/><rect x="1215" y="370" width="30" height="95" fill="#21102e"/><rect x="1295" y="340" width="30" height="110" fill="#ac91c1"/></g>
+<path d="M955 190V615" stroke="#f8f5ed" stroke-width="4"/><rect x="910" y="295" width="90" height="215" rx="3" fill="#cbb074" stroke="#e1cc99" stroke-width="3"/>
+<g stroke="#d6b96f" stroke-width="1.5" stroke-dasharray="4 6"><path d="M955 190H1070M1000 295H1070M1000 510H1070M955 615H1070"/></g>
+<g fill="#f8f5ed" font-size="25"><text x="1085" y="198">High</text><text x="1085" y="303">Close</text><text x="1085" y="518">Open</text><text x="1085" y="623">Low</text></g>
+<text x="80" y="754" fill="#a18caf" font-size="18">ILLUSTRATIVE EXAMPLE</text><text x="1360" y="754" fill="#a18caf" font-size="18" text-anchor="end">EDUCATION / NO LIVE PRICES</text></g></svg>

@@ -1,0 +1,3241 @@
+{
+  "checkedAt": "2026-11-17T23:00:13.785Z",
+  "pageCount": 52,
+  "viewportChecks": 312,
+  "checks": [
+    {
+      "file": "index.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "about.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "courses.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "trading.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "markets.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "membership.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "register.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "support.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "contact.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "careers.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "terms.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "404.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 320,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "file": "index.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "about.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "courses.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "trading.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "markets.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "membership.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "register.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "support.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "contact.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "careers.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "terms.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "404.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 390,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "file": "index.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "about.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "courses.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "trading.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "markets.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "membership.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "register.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "support.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "contact.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "careers.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "terms.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "404.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 768,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "file": "index.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "about.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "courses.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "trading.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "markets.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "membership.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "register.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "support.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "contact.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "careers.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "terms.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "404.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 1024,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "file": "index.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "about.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "courses.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "trading.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "markets.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "membership.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "register.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "support.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "contact.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "careers.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "terms.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "404.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 1366,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1351,
+      "width": 1351
+    },
+    {
+      "file": "index.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "about.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "courses.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "recorded-sessions.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "topic-risk-management.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "trading.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "markets.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "trainers.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "membership.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "membership-monthly.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "membership-yearly.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "sign-in.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "register.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "forgot-password.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "platforms.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "platform-desktop.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "platform-ios.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "platform-android.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "become-ib.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "social-trading.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "support.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "contact.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "careers.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "favorites.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "coming-soon.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "terms.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "privacy.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "risk-disclosure.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "legal-notice.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "consumer-rights.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "cookies.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "social-links.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "404.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    },
+    {
+      "file": "sitemap.html",
+      "viewport": 1920,
+      "brokenImages": [],
+      "h1": 1,
+      "privacyControls": true,
+      "scrollWidth": 1905,
+      "width": 1905
+    }
+  ],
+  "failures": [],
+  "consoleErrors": [],
+  "consentChecks": [
+    {
+      "step": "reject",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956377257,
+          "expiresAt": 1810508377257,
+          "action": "reject",
+          "choices": {
+            "functional": false,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [],
+        "access": [],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    },
+    {
+      "step": "functional-grant-and-save",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956378141,
+          "expiresAt": 1810508378141,
+          "action": "custom",
+          "choices": {
+            "functional": true,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [
+          "4xvalley:favorites:v1"
+        ],
+        "access": [
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          },
+          {
+            "method": "setItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          }
+        ],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    },
+    {
+      "step": "study-marker",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956378141,
+          "expiresAt": 1810508378141,
+          "action": "custom",
+          "choices": {
+            "functional": true,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [
+          "4xvalley:favorites:v1",
+          "4xvalley:studied:v1"
+        ],
+        "access": [
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "setItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          }
+        ],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    },
+    {
+      "step": "withdrawal",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956388456,
+          "expiresAt": 1810508388456,
+          "action": "reject",
+          "choices": {
+            "functional": false,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [],
+        "access": [
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "setItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          },
+          {
+            "method": "getItem",
+            "key": "4xvalley:studied:v1",
+            "allowed": true
+          }
+        ],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    },
+    {
+      "step": "refusal-persists-on-reload",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956388456,
+          "expiresAt": 1810508388456,
+          "action": "reject",
+          "choices": {
+            "functional": false,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [],
+        "access": [],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    },
+    {
+      "step": "accept-all-unconfigured-meta",
+      "probe": {
+        "consent": {
+          "schema": 2,
+          "signature": "738409b721",
+          "createdAt": 1794956653677,
+          "expiresAt": 1810508653677,
+          "action": "accept",
+          "choices": {
+            "functional": true,
+            "analytics": false,
+            "marketing": false
+          }
+        },
+        "optionalKeys": [],
+        "access": [
+          {
+            "method": "getItem",
+            "key": "4xvalley:favorites:v1",
+            "allowed": true
+          }
+        ],
+        "violations": [],
+        "errors": [],
+        "remoteResources": []
+      }
+    }
+  ],
+  "bannerChecks": [
+    {
+      "width": 320,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 114.66667175292967
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 114.66667175292967
+        }
+      ],
+      "hidden": false,
+      "left": 12,
+      "right": 292.66668701171875,
+      "viewport": 305,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 846,
+        "functionalChecked": false,
+        "left": 19,
+        "marketingDisabled": true,
+        "right": 285.66668701171875,
+        "top": 54
+      }
+    },
+    {
+      "width": 390,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 149.6666717529297
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 149.6666717529297
+        }
+      ],
+      "hidden": false,
+      "left": 12,
+      "right": 362.6666870117187,
+      "viewport": 375,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 846,
+        "functionalChecked": false,
+        "left": 19,
+        "marketingDisabled": true,
+        "right": 355.66668701171875,
+        "top": 54
+      }
+    },
+    {
+      "width": 768,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        }
+      ],
+      "hidden": false,
+      "left": 18,
+      "right": 734.6666870117188,
+      "viewport": 753,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 834.6979598999023,
+        "functionalChecked": false,
+        "left": 36.33333587646485,
+        "marketingDisabled": true,
+        "right": 716.3333358764648,
+        "top": 65.30208587646484
+      }
+    },
+    {
+      "width": 1024,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        }
+      ],
+      "hidden": false,
+      "left": 18,
+      "right": 990.6666870117188,
+      "viewport": 1009,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 834.6979598999023,
+        "functionalChecked": false,
+        "left": 164.33334350585938,
+        "marketingDisabled": true,
+        "right": 844.3333435058594,
+        "top": 65.30208587646484
+      }
+    },
+    {
+      "width": 1366,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        }
+      ],
+      "hidden": false,
+      "left": 35.333335876464844,
+      "right": 1315.3333358764648,
+      "viewport": 1351,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 834.6979598999023,
+        "functionalChecked": false,
+        "left": 335.3333435058594,
+        "marketingDisabled": true,
+        "right": 1015.3333435058594,
+        "top": 65.30208587646484
+      }
+    },
+    {
+      "width": 1920,
+      "buttons": [
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        },
+        {
+          "cls": "cookie-button",
+          "height": 46.92708587646485,
+          "width": 140
+        }
+      ],
+      "hidden": false,
+      "left": 312.3333435058594,
+      "right": 1592.3333435058594,
+      "viewport": 1905,
+      "modal": {
+        "analyticsDisabled": true,
+        "bottom": 834.6979598999023,
+        "functionalChecked": false,
+        "left": 612.3333740234375,
+        "marketingDisabled": true,
+        "right": 1292.3333740234375,
+        "top": 65.30208587646484
+      }
+    }
+  ],
+  "interactiveChecks": [
+    "Catalogue search Juneed: 8 results",
+    "Topic filter: 5 results",
+    "Part 3 recording filter: 3 sessions",
+    "Candle wick explanation updates",
+    "Mobile menu opens and navigates to Contact",
+    "Save requires functional permission",
+    "Withdrawal clears Favorites and study markers",
+    "Refusal persists after reload",
+    "Accept all leaves unconfigured analytics and Meta off"
+  ],
+  "firstVisit": {
+    "consent": null,
+    "optionalKeys": [],
+    "optionalAccessViolations": 0,
+    "automaticThirdPartyRequests": 0,
+    "closingPreferencesDoesNotGrantConsent": true
+  },
+  "finishedAt": "2026-11-17T23:09:27.811Z",
+  "assets": {
+    "css": "styles.ba05926838.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "scope": "Real in-app browser checks. Local QA probe observed storage calls and Resource Timing for default no-tracker build. Real Meta SDK/network not tested because no approved Pixel ID is configured; separate simulated-loader tests supplied."
+}

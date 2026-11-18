@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-18T11:21:57.523Z",
+  "tests": 13,
+  "cases": [
+    "No stored choice grants nothing; legacy functional data is deleted without reading it",
+    "Accept enables only described available categories",
+    "Reject preserves only the essential refusal and purges optional data",
+    "Custom preferences are granular and unavailable purposes cannot be enabled",
+    "Consent expires in an open tab and purges functional data",
+    "Changed vendor/policy signature requires a new choice",
+    "Malformed, forged, future or expired records fail closed",
+    "A denied storage write cannot activate optional purposes",
+    "A failed withdrawal write removes the prior grant where deletion remains possible",
+    "Cross-tab withdrawal clears saved items in the receiving tab",
+    "Unconfigured Meta stays absent before and after Accept all",
+    "Configured Meta stays blocked for rejection and functional-only preferences",
+    "Marketing grant loads Meta once; withdrawal revokes and reloads the vendor context"
+  ],
+  "scope": "Consent engine and actual Meta loader with a simulated DOM/network sink. No real Pixel ID or external Meta request was used."
+}

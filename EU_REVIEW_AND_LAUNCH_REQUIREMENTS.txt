@@ -1,0 +1,85 @@
+EU EDUCATION REVIEW AND LAUNCH REQUIREMENTS
+Reviewed 17 November 2026 | Education only | Intended audience: all EU countries
+
+FINDING
+There is no single cookie banner, disclaimer or English-language page that
+provides blanket EU-wide legal clearance. The public static pages were revised
+conservatively. Actual course videos, member services, contract checkout,
+advertising creatives and the operator's authorisation status were not audited.
+Do not represent the result as an approved or universally compliant EU site.
+
+CONTENT ACTIONS
+Removed the account credit and preferred-broker/IB funnels rather than adding a
+disclaimer to them. ESMA's CFD incentive Q&A addresses regulated CFD providers;
+its exact national application is not inferred for every education business.
+Removal here also follows the owner's express education-only scope. No claim
+is made that every referral or education subscription is inherently unlawful.
+
+Removed unverifiable expertise/service availability and aspirational financial
+outcome claims. Kept general explanations, invented-price chart examples and
+balanced risk information. No invented loss percentage, licence number, award,
+testimonial, guaranteed outcome or regulatory endorsement was added.
+
+Actual recommendations, signals or automated copying cannot be relabelled as
+education. Have a qualified reviewer inspect each lesson, live-session format,
+trainer practice, ad and any actual economic interest before reconnecting it.
+
+PRIVACY
+ePrivacy storage/access rules are implemented nationally. GDPR governs personal
+data processing and consent standards. The EDPB taskforce findings provide a
+minimum/common position, not a stand-alone approval or override of national law.
+This build implements positive choices, first-layer rejection, granular options,
+no optional defaults and an always-available withdrawal route. Local consent
+records alone may not meet the operator's full accountability arrangements.
+
+The controller must approve identity/contact information, lawful bases for each
+processing purpose, processor/recipient information, hosting log retention,
+rights/complaints routes and international-transfer information. Assess whether
+an EU representative or other country-specific disclosure is needed. No Meta
+or analytics service runs in the delivered build. Any future provider requires
+specific disclosure, transfer/vendor assessment and a real consent/network test.
+
+CONSUMER / CHECKOUT
+Before offering paid education, confirm the actual contracting entity, service
+scope, currency, total tax-inclusive price, payment/performance arrangements,
+term, renewal, cancellation, complaints and withdrawal information. State an
+unambiguous obligation to pay at the order step, and provide confirmation in a
+durable medium. Services and digital content have different withdrawal rules;
+do not use a blanket 'access means no refunds' or pre-ticked rights waiver.
+
+Directive (EU) 2023/2673 introduced an online withdrawal-function requirement in
+the Consumer Rights Directive framework. National measures apply from 19 June
+2026. Assess its application to the actual online education contract and provide
+the function, confirmation step and durable-medium acknowledgement where due.
+An information page or a nonfunctional cancellation button does not implement
+this. The package therefore has no paid checkout or purported withdrawal form.
+
+COUNTRY / BUSINESS CHECKS STILL REQUIRED
+Confirm each intended country's consumer-information languages, advertising and
+financial-promotion boundaries, mandatory trader/imprint details, applicable
+national cookie guidance, tax treatment, complaint/ADR requirements and digital
+accessibility obligations/exemptions. Confirm all claims/portraits/teaching media
+have permission and reflect the actual offering. English-only copy is not a
+confirmation that all national language obligations have been met.
+
+LAUNCH STATUS
+17 owner-requested placeholders and 3 review flags remain open. The public build
+is staged/noindex with paid access, external member portal and marketing off.
+The host must password-protect private review. Completing configuration and
+passing automated checks does not substitute for qualified national review.
+
+OFFICIAL SOURCES USED (paraphrased; consulted 17 November 2026)
+ePrivacy Directive, Article 5(3):
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0058-20091219
+GDPR, Articles 7 and 13:
+https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng
+EDPB Cookie Banner Taskforce report (17 January 2023):
+https://www.edpb.europa.eu/system/files/documents/2023-01/edpb_20230118_report_cookie_banner_taskforce_en.pdf
+ESMA Finfluencers factsheet (2026), including advice/education distinction:
+https://www.esma.europa.eu/sites/default/files/2026-01/Finfluencers_factsheet_EN.pdf
+ESMA CFD monetary-incentive Q&A 5.5:
+https://www.esma.europa.eu/publications-data/questions-answers/1982
+European Commission, distance-selling consumer information:
+https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_en.htm
+Directive (EU) 2023/2673, Article 11a and application date:
+https://eur-lex.europa.eu/eli/dir/2023/2673/oj/eng

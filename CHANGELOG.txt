@@ -1,0 +1,11 @@
+2.1.0 — 18 November 2026
+Added ten Magnific-generated editorial images to hero sections across all
+52 pages, with responsive WebP sizes and a page-specific image mapping.
+
+2.0.2 — 18 November 2026
+Added the approved education/risk warning directly beneath navigation on every
+page, with a link to the full risk information and responsive, readable styling.
+
+2.0.1 — 18 November 2026
+Fixed prose link colours overriding primary button labels; improved purple
+program-card small text contrast. Rebuilt static pages and deployment archives.

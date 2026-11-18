@@ -1,0 +1,7230 @@
+{
+  "checkedAt": "2026-11-18T16:59:43.729Z",
+  "version": "2.1.0-eu-education",
+  "assets": {
+    "css": "styles.4aca3aff77.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "pageCount": 52,
+  "imageCount": 10,
+  "viewportChecks": 312,
+  "viewports": [
+    {
+      "width": 320,
+      "height": 812
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "width": 1024,
+      "height": 900
+    },
+    {
+      "width": 1366,
+      "height": 1000
+    },
+    {
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "checks": [
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 199,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 148,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 148,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 198,
+      "displayWidth": 265,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 251,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 187,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 187,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 250,
+      "displayWidth": 335,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1280.5c05c921ce.webp",
+      "displayHeight": 392,
+      "displayWidth": 697,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-1280.5237a277fd.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-1280.a2d150c3d2.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-1280.51432573ee.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1280.5c05c921ce.webp",
+      "displayHeight": 379,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-1280.51432573ee.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-1280.a2d150c3d2.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-1280.b9b65e9f0b.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-1280.b9b65e9f0b.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-1280.51432573ee.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-1280.a2d150c3d2.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-1280.0561243988.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-1280.0561243988.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-1280.0561243988.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-1280.0561243988.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1280.5c05c921ce.webp",
+      "displayHeight": 379,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-1280.2a4421507c.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-1280.2a4421507c.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-1280.2a4421507c.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-1280.2a4421507c.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-1280.2f6ce217d1.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-1280.5237a277fd.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-1280.2f6ce217d1.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-1280.2f6ce217d1.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-1280.0561243988.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-1280.b9b65e9f0b.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-1280.94f091a94e.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-1280.5237a277fd.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-1280.2f6ce217d1.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-1280.0cc218d7df.webp",
+      "displayHeight": 508,
+      "displayWidth": 680,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1280.5c05c921ce.webp",
+      "displayHeight": 531,
+      "displayWidth": 945,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 241,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 241,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 322,
+      "displayWidth": 432,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1920.d48f2e9b65.webp",
+      "displayHeight": 715,
+      "displayWidth": 1271,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 323,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 323,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 431,
+      "displayWidth": 577,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-1920.d48f2e9b65.webp",
+      "displayHeight": 783,
+      "displayWidth": 1392,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "about.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "courses.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "recorded-sessions.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-mystery-hub.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-tradessmart-fx.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "course-forex-success-path.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-basics.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 355,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-technical-analysis.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-fundamental-analysis.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-risk-management.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "topic-trading-strategies.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r1.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r2.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r3.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r4.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-2-r5.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r1.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r2.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "lesson-juneed-part-3-r3.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trading.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+      "caption": "",
+      "currentFile": "chart-640.97245f2c37.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "chart",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "markets.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A globe, reference book and research printouts on a study desk.",
+      "caption": "",
+      "currentFile": "research-640.cd3af2364d.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "research",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-monthly.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "membership-yearly.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sign-in.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "register.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative study scene with a learner, notebook and laptop.",
+      "caption": "",
+      "currentFile": "study-640.6a8b24b4ff.webp",
+      "displayHeight": 355,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "study",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "forgot-password.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platforms.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-desktop.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-ios.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "platform-android.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+      "caption": "",
+      "currentFile": "devices-640.4c73f97c76.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "devices",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "become-ib.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-trading.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "support.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "contact.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "careers.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "classroom-640.586088f2fb.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "classroom",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "favorites.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "coming-soon.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "terms.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "privacy.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A planning worksheet, ruler, pencil and calculator.",
+      "caption": "",
+      "currentFile": "risk-640.ba19450063.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "risk",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "legal-notice.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "consumer-rights.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "cookies.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "An organised plum folder with plain envelopes and a paper clip.",
+      "caption": "",
+      "currentFile": "privacy-640.d415266e09.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "privacy",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "social-links.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Illustrative learning partners reviewing a diagram together.",
+      "caption": "Illustrative learning scene.",
+      "currentFile": "community-640.00bb0ea6b5.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "community",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "404.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+      "caption": "",
+      "currentFile": "support-640.f4c5705452.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "support",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+      "caption": "",
+      "currentFile": "library-640.a20cea10ea.webp",
+      "displayHeight": 474,
+      "displayWidth": 635,
+      "failures": [],
+      "imageCount": 1,
+      "key": "library",
+      "loaded": true,
+      "local": true,
+      "responsiveWidths": [
+        "640w",
+        "1280w",
+        "1920w"
+      ],
+      "separated": true
+    }
+  ],
+  "failures": [],
+  "consoleErrors": [],
+  "passed": true
+}

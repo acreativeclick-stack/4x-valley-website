@@ -1,0 +1,17 @@
+{
+  "name": "4x-valley-website",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Responsive EU education-only 4X Valley static website with opt-in device storage",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check:release": "node scripts/check.mjs --release",
+    "test": "node scripts/test-consent.mjs"
+  }
+}

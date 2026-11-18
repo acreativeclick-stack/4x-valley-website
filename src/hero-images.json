@@ -1,0 +1,202 @@
+{
+  "study": {
+    "alt": "Illustrative study scene with a learner, notebook and laptop.",
+    "width": 2752,
+    "height": 1536,
+    "files": {
+      "640": {
+        "file": "study-640.6a8b24b4ff.webp",
+        "bytes": 23170
+      },
+      "1280": {
+        "file": "study-1280.5c05c921ce.webp",
+        "bytes": 60178
+      },
+      "1920": {
+        "file": "study-1920.d48f2e9b65.webp",
+        "bytes": 119450
+      }
+    },
+    "caption": ""
+  },
+  "library": {
+    "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "library-640.a20cea10ea.webp",
+        "bytes": 47478
+      },
+      "1280": {
+        "file": "library-1280.0cc218d7df.webp",
+        "bytes": 146024
+      },
+      "1920": {
+        "file": "library-1920.6433d1becf.webp",
+        "bytes": 281658
+      }
+    },
+    "caption": ""
+  },
+  "classroom": {
+    "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "classroom-640.586088f2fb.webp",
+        "bytes": 35562
+      },
+      "1280": {
+        "file": "classroom-1280.0561243988.webp",
+        "bytes": 92526
+      },
+      "1920": {
+        "file": "classroom-1920.8d1b354c8e.webp",
+        "bytes": 171112
+      }
+    },
+    "caption": "Illustrative learning scene."
+  },
+  "chart": {
+    "alt": "A pencil pointing to an illustrative candlestick chart on paper.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "chart-640.97245f2c37.webp",
+        "bytes": 27466
+      },
+      "1280": {
+        "file": "chart-1280.51432573ee.webp",
+        "bytes": 70612
+      },
+      "1920": {
+        "file": "chart-1920.ab2022aa4c.webp",
+        "bytes": 134780
+      }
+    },
+    "caption": ""
+  },
+  "research": {
+    "alt": "A globe, reference book and research printouts on a study desk.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "research-640.cd3af2364d.webp",
+        "bytes": 28340
+      },
+      "1280": {
+        "file": "research-1280.a2d150c3d2.webp",
+        "bytes": 82544
+      },
+      "1920": {
+        "file": "research-1920.32644529c8.webp",
+        "bytes": 159228
+      }
+    },
+    "caption": ""
+  },
+  "risk": {
+    "alt": "A planning worksheet, ruler, pencil and calculator.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "risk-640.ba19450063.webp",
+        "bytes": 43400
+      },
+      "1280": {
+        "file": "risk-1280.b9b65e9f0b.webp",
+        "bytes": 134436
+      },
+      "1920": {
+        "file": "risk-1920.3ac4714b4f.webp",
+        "bytes": 279910
+      }
+    },
+    "caption": ""
+  },
+  "devices": {
+    "alt": "Illustrative laptop, tablet and phone displaying generic chart-learning screens.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "devices-640.4c73f97c76.webp",
+        "bytes": 36690
+      },
+      "1280": {
+        "file": "devices-1280.2a4421507c.webp",
+        "bytes": 96170
+      },
+      "1920": {
+        "file": "devices-1920.96163d5c5f.webp",
+        "bytes": 187396
+      }
+    },
+    "caption": ""
+  },
+  "support": {
+    "alt": "A notebook and laptop at a quiet workspace for enquiries.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "support-640.f4c5705452.webp",
+        "bytes": 25172
+      },
+      "1280": {
+        "file": "support-1280.2f6ce217d1.webp",
+        "bytes": 60426
+      },
+      "1920": {
+        "file": "support-1920.3154d6f86a.webp",
+        "bytes": 114688
+      }
+    },
+    "caption": ""
+  },
+  "privacy": {
+    "alt": "An organised plum folder with plain envelopes and a paper clip.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "privacy-640.d415266e09.webp",
+        "bytes": 25086
+      },
+      "1280": {
+        "file": "privacy-1280.94f091a94e.webp",
+        "bytes": 75938
+      },
+      "1920": {
+        "file": "privacy-1920.99edfdbc77.webp",
+        "bytes": 150952
+      }
+    },
+    "caption": ""
+  },
+  "community": {
+    "alt": "Illustrative learning partners reviewing a diagram together.",
+    "width": 2400,
+    "height": 1792,
+    "files": {
+      "640": {
+        "file": "community-640.00bb0ea6b5.webp",
+        "bytes": 35914
+      },
+      "1280": {
+        "file": "community-1280.5237a277fd.webp",
+        "bytes": 97814
+      },
+      "1920": {
+        "file": "community-1920.2e47e671ff.webp",
+        "bytes": 189994
+      }
+    },
+    "caption": "Illustrative learning scene."
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "name": "4X Valley",
+  "version": "2.1.0-eu-education",
+  "generatedAt": "2026-11-18T16:52:59.724Z",
+  "mode": "eu-education-only",
+  "origin": "https://4xvalley.com",
+  "pageCount": 52,
+  "pages": [
+    {
+      "file": "index.html",
+      "title": "Understand forex. One concept at a time.",
+      "description": "Explore forex concepts, illustrative chart lessons, programs and recorded-session information with 4X Valley.",
+      "group": "Start here"
+    },
+    {
+      "file": "about.html",
+      "title": "A clearer way into forex.",
+      "description": "Learn about the education-only scope of the 4X Valley website.",
+      "group": "Start here"
+    },
+    {
+      "file": "courses.html",
+      "title": "Your next concept starts here.",
+      "description": "Browse three programs, five learning topics and eight Juneed recordings.",
+      "group": "Learning"
+    },
+    {
+      "file": "recorded-sessions.html",
+      "title": "Explore the Juneed series.",
+      "description": "Browse eight Juneed recordings from Part 2 and Part 3. Member playback is currently paused.",
+      "group": "Learning"
+    },
+    {
+      "file": "course-forex-mystery-hub.html",
+      "title": "Forex Mystery Hub",
+      "description": "Forex Mystery Hub, a program in the 4X Valley learning catalogue.",
+      "group": "Featured programs"
+    },
+    {
+      "file": "course-tradessmart-fx.html",
+      "title": "TradesSmart FX",
+      "description": "TradesSmart FX, a program in the 4X Valley learning catalogue.",
+      "group": "Featured programs"
+    },
+    {
+      "file": "course-forex-success-path.html",
+      "title": "Forex Learning Path",
+      "description": "Forex Learning Path, a program in the 4X Valley learning catalogue.",
+      "group": "Featured programs"
+    },
+    {
+      "file": "topic-trading-basics.html",
+      "title": "Trading basics",
+      "description": "Trading basics. Start with the language of the market.",
+      "group": "Learning topics"
+    },
+    {
+      "file": "topic-technical-analysis.html",
+      "title": "Technical analysis",
+      "description": "Technical analysis. Read what is on the chart.",
+      "group": "Learning topics"
+    },
+    {
+      "file": "topic-fundamental-analysis.html",
+      "title": "Fundamental analysis",
+      "description": "Fundamental analysis. Put market information into context.",
+      "group": "Learning topics"
+    },
+    {
+      "file": "topic-risk-management.html",
+      "title": "Risk management",
+      "description": "Risk management. Understand exposure before making decisions.",
+      "group": "Learning topics"
+    },
+    {
+      "file": "topic-trading-strategies.html",
+      "title": "Trading strategies",
+      "description": "Trading strategies. Examine an approach, then question its assumptions.",
+      "group": "Learning topics"
+    },
+    {
+      "file": "lesson-juneed-part-2-r1.html",
+      "title": "Juneed Part2 (R1)",
+      "description": "Juneed Part2 (R1), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-2-r2.html",
+      "title": "Juneed Part2 (R2)",
+      "description": "Juneed Part2 (R2), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-2-r3.html",
+      "title": "Juneed Part2 (R3)",
+      "description": "Juneed Part2 (R3), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-2-r4.html",
+      "title": "Juneed Part2 (R4)",
+      "description": "Juneed Part2 (R4), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-2-r5.html",
+      "title": "Juneed Part2 (R5)",
+      "description": "Juneed Part2 (R5), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-3-r1.html",
+      "title": "Juneed Part3 (R1)",
+      "description": "Juneed Part3 (R1), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-3-r2.html",
+      "title": "Juneed Part3 (R2)",
+      "description": "Juneed Part3 (R2), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "lesson-juneed-part-3-r3.html",
+      "title": "Juneed Part3 (R3)",
+      "description": "Juneed Part3 (R3), in the Juneed recording catalogue. Playback is currently paused.",
+      "group": "Recorded lessons"
+    },
+    {
+      "file": "trading.html",
+      "title": "Read the chart. Ask a better question.",
+      "description": "Explore an illustrative candlestick lesson: open, high, low, close, body and wicks.",
+      "group": "Learning"
+    },
+    {
+      "file": "markets.html",
+      "title": "Understand the market you are looking at.",
+      "description": "A general educational overview of forex, metals, energies, stocks, indices and digital assets.",
+      "group": "Learning"
+    },
+    {
+      "file": "trainers.html",
+      "title": "The people behind the lessons.",
+      "description": "Trainer profiles listed by 4X Valley: Magda Karapetyan, Sanj Kumar and Akash Ghadiyali.",
+      "group": "People"
+    },
+    {
+      "file": "trainer-magda-karapetyan.html",
+      "title": "Magda Karapetyan",
+      "description": "Magda Karapetyan, listed as a trainer by 4X Valley.",
+      "group": "People"
+    },
+    {
+      "file": "trainer-sanj-kumar.html",
+      "title": "Sanj Kumar",
+      "description": "Sanj Kumar, listed as a trainer by 4X Valley.",
+      "group": "People"
+    },
+    {
+      "file": "trainer-akash-ghadiyali.html",
+      "title": "Akash Ghadiyali",
+      "description": "Akash Ghadiyali, listed as a trainer by 4X Valley.",
+      "group": "People"
+    },
+    {
+      "file": "membership.html",
+      "title": "Learning access and membership.",
+      "description": "Paid enrolment is currently unavailable. Browse public learning resources and consumer information.",
+      "group": "Learning access"
+    },
+    {
+      "file": "membership-monthly.html",
+      "title": "Monthly access information",
+      "description": "No membership checkout is currently available. Final offers and consumer terms require confirmation.",
+      "group": "Learning access"
+    },
+    {
+      "file": "membership-yearly.html",
+      "title": "Annual access information",
+      "description": "No membership checkout is currently available. Final offers and consumer terms require confirmation.",
+      "group": "Learning access"
+    },
+    {
+      "file": "sign-in.html",
+      "title": "Member access",
+      "description": "Member-account connections are currently paused.",
+      "group": "Account",
+      "noindex": true
+    },
+    {
+      "file": "register.html",
+      "title": "New enrolments",
+      "description": "New accounts and paid enrolments are currently unavailable.",
+      "group": "Account",
+      "noindex": true
+    },
+    {
+      "file": "forgot-password.html",
+      "title": "Account assistance",
+      "description": "The separate password-recovery service is not connected to this website.",
+      "group": "Account",
+      "noindex": true
+    },
+    {
+      "file": "platforms.html",
+      "title": "Understand the software.",
+      "description": "General learning references for MetaTrader 5 on desktop and mobile.",
+      "group": "Software references"
+    },
+    {
+      "file": "platform-desktop.html",
+      "title": "MT5 Desktop",
+      "description": "General educational reference to official MT5 Desktop documentation.",
+      "group": "Software references"
+    },
+    {
+      "file": "platform-ios.html",
+      "title": "MetaTrader 5 iOS",
+      "description": "General educational reference to official MetaTrader 5 iOS documentation.",
+      "group": "Software references"
+    },
+    {
+      "file": "platform-android.html",
+      "title": "MetaTrader 5 Android",
+      "description": "General educational reference to official MetaTrader 5 Android documentation.",
+      "group": "Software references"
+    },
+    {
+      "file": "become-ib.html",
+      "title": "This route has been retired.",
+      "description": "The previous partnership route is unavailable on this education-only website.",
+      "group": "Retired",
+      "noindex": true,
+      "retired": true
+    },
+    {
+      "file": "social-trading.html",
+      "title": "Understanding copy trading.",
+      "description": "General education about copy trading and its risks. No copy-trading service is offered here.",
+      "group": "Learning"
+    },
+    {
+      "file": "support.html",
+      "title": "Find your next answer.",
+      "description": "Answers about the learning catalogue, privacy choices, member access and saved items.",
+      "group": "Company and support"
+    },
+    {
+      "file": "contact.html",
+      "title": "Contact information.",
+      "description": "Company and contact information for the 4X Valley education website.",
+      "group": "Company and support"
+    },
+    {
+      "file": "careers.html",
+      "title": "Help make learning clearer.",
+      "description": "Careers information for 4X Valley.",
+      "group": "Company and support"
+    },
+    {
+      "file": "favorites.html",
+      "title": "Your saved starting points.",
+      "description": "Programs and recordings saved in this browser after functional-storage consent.",
+      "group": "Learning",
+      "noindex": true
+    },
+    {
+      "file": "coming-soon.html",
+      "title": "The next chapter.",
+      "description": "Future program announcements for 4X Valley.",
+      "group": "Learning"
+    },
+    {
+      "file": "terms.html",
+      "title": "Terms of use",
+      "description": "Terms of use for the education website. Operator-approved legal text is pending.",
+      "group": "Legal",
+      "noindex": true
+    },
+    {
+      "file": "privacy.html",
+      "title": "Privacy information",
+      "description": "Privacy information for the education website. Operator-approved legal text is pending.",
+      "group": "Legal",
+      "noindex": true
+    },
+    {
+      "file": "risk-disclosure.html",
+      "title": "Risk information",
+      "description": "Risk information for the education website. Operator-approved legal text is pending.",
+      "group": "Legal",
+      "noindex": true
+    },
+    {
+      "file": "legal-notice.html",
+      "title": "Website operator information",
+      "description": "Website operator information for the education website. Operator-approved legal text is pending.",
+      "group": "Legal",
+      "noindex": true
+    },
+    {
+      "file": "consumer-rights.html",
+      "title": "Consumer and enrolment information",
+      "description": "Consumer and enrolment information for the education website. Operator-approved legal text is pending.",
+      "group": "Legal",
+      "noindex": true
+    },
+    {
+      "file": "cookies.html",
+      "title": "Cookies and browser storage.",
+      "description": "Control optional functional storage and learn what the website stores in this browser.",
+      "group": "Legal"
+    },
+    {
+      "file": "social-links.html",
+      "title": "Follow the conversation.",
+      "description": "Official social-profile destinations, pending confirmation.",
+      "group": "Company and support"
+    },
+    {
+      "file": "404.html",
+      "title": "Let’s find your next page.",
+      "description": "Return to the homepage, course library or support.",
+      "group": "Other",
+      "noindex": true
+    },
+    {
+      "file": "sitemap.html",
+      "title": "Explore every page.",
+      "description": "All learning, company, support and legal pages on the education website.",
+      "group": "Other"
+    }
+  ],
+  "assets": {
+    "css": "styles.4aca3aff77.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "staging": true,
+  "publicLaunchReady": false,
+  "placeholdersPermitted": true,
+  "placeholderFields": [
+    "company.legalName",
+    "company.registration",
+    "company.address",
+    "company.jurisdiction",
+    "contact.email",
+    "contact.phone",
+    "contact.careersEmail",
+    "social.facebook",
+    "social.x",
+    "social.instagram",
+    "social.youtube",
+    "social.linkedin",
+    "legal.terms",
+    "legal.privacy",
+    "legal.risk",
+    "legal.consumer",
+    "legal.notice"
+  ],
+  "launchBlockers": [
+    "company.legalName",
+    "company.registration",
+    "company.address",
+    "company.jurisdiction",
+    "contact.email",
+    "contact.phone",
+    "contact.careersEmail",
+    "social.facebook",
+    "social.x",
+    "social.instagram",
+    "social.youtube",
+    "social.linkedin",
+    "legal.terms",
+    "legal.privacy",
+    "legal.risk",
+    "legal.consumer",
+    "legal.notice",
+    "review.operatorVerified",
+    "review.curriculumReviewed",
+    "review.euNationalRequirementsReviewed"
+  ],
+  "paidEnrolmentEnabled": false,
+  "legacyPortalConnected": false,
+  "externalRuntimeDependencies": [],
+  "sources": [
+    {
+      "url": "https://4xvalley.com/",
+      "usedFor": "Original program catalogue, recording names and trainer identities/portraits. Promotional claims, prices, broker links and credit incentives excluded from the EU education website."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0058-20091219",
+      "usedFor": "ePrivacy Article 5(3): terminal storage/access and exceptions; implemented through national law."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+      "usedFor": "GDPR Articles 7 and 13: consent, withdrawal and information duties."
+    },
+    {
+      "url": "https://www.edpb.europa.eu/system/files/documents/2023-01/edpb_20230118_report_cookie_banner_taskforce_en.pdf",
+      "usedFor": "Cookie banner taskforce findings: positive action, first-layer rejection, no pre-ticked optional choices or deceptive presentation."
+    },
+    {
+      "url": "https://www.esma.europa.eu/sites/default/files/2026-01/Finfluencers_factsheet_EN.pdf",
+      "usedFor": "Education/recommendation distinction, truthful presentation and disclosures. A disclaimer is insufficient for actual regulated advice."
+    },
+    {
+      "url": "https://www.esma.europa.eu/publications-data/questions-answers/1982",
+      "usedFor": "CFD monetary-incentive Q&A. Original account-credit promotion removed; national product-intervention rules must be checked."
+    },
+    {
+      "url": "https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_en.htm",
+      "usedFor": "Seller identity, total price, distance-contract and digital-content consumer information."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/dir/2023/2673/oj/eng",
+      "usedFor": "Online withdrawal-function requirements; national measures apply from 19 June 2026. Actual contracting platform requires review."
+    }
+  ]
+}
