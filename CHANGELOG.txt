@@ -1,3 +1,7 @@
+2.1.2 — 18 November 2026
+Removed the draft badge and empty legal placeholder panel from Risk information.
+The page shows its existing educational risk explanation. Approval gates remain.
+
 2.1.1 — 18 November 2026
 Limited the social-links page and shared social footer to Facebook and Instagram.
 Removed unused X, YouTube and LinkedIn profile placeholders.

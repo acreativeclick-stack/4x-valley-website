@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-18T18:10:14.090Z",
-  "version": "2.1.1-eu-education",
+  "checkedAt": "2026-11-18T18:20:29.440Z",
+  "version": "2.1.2-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -6343,5 +6343,18 @@
       "sections": [],
       "socialPage": false
     }
-  ]
+  ],
+  "incrementalValidation": {
+    "baseVersion": "2.1.1-eu-education",
+    "recheckedPages": [
+      "risk-disclosure.html"
+    ],
+    "newBrowserChecks": 6,
+    "unchangedPages": 51,
+    "unchangedPageHashesVerified": true,
+    "stylesAndScriptsUnchanged": true,
+    "note": "Existing coverage for 51 byte-identical HTML pages is carried forward; only the changed risk page was rechecked in this revision.",
+    "baseCheckedAt": "2026-11-18T18:10:14.090Z"
+  },
+  "method": "Rendered DOM page/viewport checks. Incremental validation: 6 new risk-page checks; 51 unchanged pages verified by SHA-256."
 }

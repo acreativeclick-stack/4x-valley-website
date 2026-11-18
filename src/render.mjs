@@ -82,8 +82,9 @@ export function localize(html){
 
 export const baseCss=localize([...approved.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m=>m[1]).join('\n'));
 export const candle=localize(approved.match(/<article class="lesson-card"[\s\S]*?<\/article>/)[0]);
-export function legalContent(kind,title){
+export function legalContent(kind,title,{showPlaceholder=true}={}){
  const file=path.join(srcDir,'legal',kind+'.html');
  if(config.legalApproved[kind]){if(!fs.existsSync(file)||!fs.readFileSync(file,'utf8').trim())throw new Error(`Approved legal content is missing: src/legal/${kind}.html`);return fs.readFileSync(file,'utf8');}
+ if(!showPlaceholder)return '';
  return `<div class="legal-body"><span class="draft-badge">Placeholder — approved text pending</span><div class="placeholder-panel"><h2>${e(title)}</h2><p>${placeholder('legal.'+kind,'Insert the approved '+title.toLowerCase()+' text here')}</p><dl><dt>Legal company name</dt><dd>${companyName()}</dd><dt>Registered address</dt><dd>${config.company.address?e(config.company.address):placeholder('company.address','Registered address')}</dd><dt>Governing jurisdiction</dt><dd>${config.company.jurisdiction?e(config.company.jurisdiction):placeholder('company.jurisdiction','Jurisdiction')}</dd><dt>Contact email</dt><dd>${config.contact.email?e(config.contact.email):placeholder('contact.email','Contact email')}</dd><dt>Effective date</dt><dd>${placeholder('legal.'+kind+'.effectiveDate','Effective date')}</dd></dl></div></div>`;
 }

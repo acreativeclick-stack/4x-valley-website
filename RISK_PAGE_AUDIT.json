@@ -1,0 +1,626 @@
+{
+  "checkedAt": "2026-11-18T18:20:29.440Z",
+  "version": "2.1.2-eu-education",
+  "assets": {
+    "css": "styles.4aca3aff77.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "page": "risk-disclosure.html",
+  "viewportChecks": 6,
+  "checks": [
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 25,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-640.ba19450063.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 25,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-640.ba19450063.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 25,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-1280.b9b65e9f0b.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 25,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-640.ba19450063.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 32,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-640.ba19450063.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "risk-disclosure.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 32,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "A planning worksheet, ruler, pencil and calculator.",
+        "caption": "",
+        "currentFile": "risk-640.ba19450063.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "risk",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    }
+  ],
+  "failures": [],
+  "consoleErrors": [],
+  "incrementalValidation": {
+    "baseVersion": "2.1.1-eu-education",
+    "recheckedPages": [
+      "risk-disclosure.html"
+    ],
+    "newBrowserChecks": 6,
+    "unchangedPages": 51,
+    "unchangedPageHashesVerified": true,
+    "stylesAndScriptsUnchanged": true,
+    "note": "Existing coverage for 51 byte-identical HTML pages is carried forward; only the changed risk page was rechecked in this revision."
+  },
+  "unchangedPageHashes": {
+    "index.html": "c77b68a479d1f422909bc065ccdf86b84fc0486f6400b89f5df2d27bf8016d02",
+    "about.html": "c2747706958b906ef4da3ef4663710609203a0d8af4931a00e0147e6369d218e",
+    "courses.html": "ec1be261d5098f6ca0fac4dea1cd5ad91490fc570e74b00575359f0459b2d86c",
+    "recorded-sessions.html": "1b7ff141e760a0059f85d75f2328eca8b56ca31e1f6af48ca9700ea9c1145043",
+    "course-forex-mystery-hub.html": "51ea02db9013039b301fba6c102f876833ae101950aaee1ec5d702c9b5f63d48",
+    "course-tradessmart-fx.html": "2a45189c5f1e143ed711affa86b62f86378e99e0c050acb6b981b7cf08d225a5",
+    "course-forex-success-path.html": "8cffa178acc0ca698b8427a688b9b25b5c862df845504c6334ecdd473341abdd",
+    "topic-trading-basics.html": "9b4409292c28a99fa28bc3579fb1c60f57044c3f34b4c13a866b759180cc769f",
+    "topic-technical-analysis.html": "6fb0967b6d7fd220ffe289e7272ba7db558cd78c1510ae73f1573721fd08bdb3",
+    "topic-fundamental-analysis.html": "28595566d1cf20208bb9bf91476aaa3b1e91b7fdb960de3f833183f2b8b28140",
+    "topic-risk-management.html": "7eab6b99c70a314eb82749bb45493433bf06d14fc884018d061d0d3870bd29a5",
+    "topic-trading-strategies.html": "df5e495f157cd8bbc766fdcab5308a0ccc63283cf87e2828515ec41875183e01",
+    "lesson-juneed-part-2-r1.html": "740a4887c23d3c7da636d2615b97b5faa4fed16e957e91df10b20f0ed2018b9b",
+    "lesson-juneed-part-2-r2.html": "d5c80b09b72b6c0d7eb67013ec09b97d1d018b81c04bc544586efb4d6b98339b",
+    "lesson-juneed-part-2-r3.html": "d28529f188fcc546f8e66b4197ed9bc7f6d5187377444b3d94d55fc44872a9af",
+    "lesson-juneed-part-2-r4.html": "6605a9e61ad92ba9a6e50cbe6ee25d60ecc1921d691fb53207150cd7e71a55f2",
+    "lesson-juneed-part-2-r5.html": "97c8b3e98e4a6b98f64a3188fc2c6375911c19651ddf4c2fee60e0d479994f6e",
+    "lesson-juneed-part-3-r1.html": "572cc9941990da95f70fd8955fb50b6c7418926a90373cb3b261a2540ddc2d03",
+    "lesson-juneed-part-3-r2.html": "9c3c2ee77a24900c0eb3a8a892c36fac526460542beb2621e1e2c56c4b506610",
+    "lesson-juneed-part-3-r3.html": "6da163bd484c5a1808608eb8ab5431e111c61ec6d1c039d6bee2e973baa7d980",
+    "trading.html": "d538090f6fa180c8560e3b96deafb9f0b86a2e9971964fddd3d7ba66866d70f0",
+    "markets.html": "0108f35c3d07f9a14c822006ffad54a45f54985109ede0d7adb4ec3f08fdb078",
+    "trainers.html": "a51ca55215b5feb2cf80c14d18c0b93a2667d177a13e751ed90d60d16a977990",
+    "trainer-magda-karapetyan.html": "9b32b48756a47be813ea2e17c3d9ae5ace4837bb7e8705c670353a8297a96694",
+    "trainer-sanj-kumar.html": "e777901b12c71c78cbce591d5475ead5858104a378e07f2de6e3f7dd6015a7a9",
+    "trainer-akash-ghadiyali.html": "8cf9f88280b58ecbc2fa442cbcf63a02eca90767734ed393e9926256544e6071",
+    "membership.html": "6170ccd06e07ba1edbed4217f217d3a853e698dfbb270d6b275d3c8a7e2b04b8",
+    "membership-monthly.html": "d1a1bc01df0a6b4457f637e6c3b3edde8e611ca7eedd696ad9e03bee71be8618",
+    "membership-yearly.html": "fa19dc2d6438267dce5f7b7fb94ea3952a30333a2e3abaf3f56e06545c257f50",
+    "sign-in.html": "be53f0a5e262a0c175639a86817d4b8ff682c74ee23dd23e477001eb5fc5b8f3",
+    "register.html": "e935aff8ca05b6866383eb1742f4d2aee54aeea4bb76b3b22258136befa1975e",
+    "forgot-password.html": "57aa98c491fa20d0f4aefdbdbad669d658161efa0221455e37f1d045f65d8af2",
+    "platforms.html": "437825a8662dea3d9ca6e210a34e9a729c438cc549b20b6f2dc46fd305397116",
+    "platform-desktop.html": "86e45a5f7a96d9f2a3e01d86c34d4a70352fe752ee66084a1c44f540a9c4a5cc",
+    "platform-ios.html": "f2f8ef441a35ec96dddcefb108eced3d68e9aa055f0b7fcdb9033ccefbe4e860",
+    "platform-android.html": "760a46d8558bd044f0f0016fe689da45b1e0aa3dddaa4371e57a80ac94e3f805",
+    "become-ib.html": "aa94c875288e724dc4128cdff6d9a96ee872ac2758aabcd4ff412afe8423eab9",
+    "social-trading.html": "5282f2fb60f1b2ffc333b6b48edb5fe7347eb0aa3cb19a47d01a129fc2e347cf",
+    "support.html": "6b22d628a126588872a0d54561a880e2f9778c09ac4d02b921b5430913657c49",
+    "contact.html": "18b8b603f5617b168cd7636def7b06a08981287ac762db991ae9c4b60b2e0715",
+    "careers.html": "0fd8fb574e4e3d6cd14fe469d408f3d833917fa66e7837b015fa34d9b012f1e9",
+    "favorites.html": "52703b03fa729adadaa9035c6d6e0f7d40fe90f7a2f7922ac274b0b61525dcf7",
+    "coming-soon.html": "b0f1a7bb105d3c2f48255deabb791047ee9704057a47692169b69a5f71a5db10",
+    "terms.html": "d255bf1174781db55c9cfa2ed810d22ee4aab7f84e600ce379d1a967319bbb4d",
+    "privacy.html": "02207d1f48e2e1b7dfd5fb1a403c6e7c1d9852059e856cf21f0167060f3c2b3e",
+    "legal-notice.html": "1c18eac27bd48211b2e8025fc7af3af078926b3cb18a4fa3528c1bb824aff357",
+    "consumer-rights.html": "c4bc18a1ec4d474f77c3132e5cfeec74f0ea4133bcfc126c3e8d07646a4345fb",
+    "cookies.html": "c63db6868c4acbc461d46f70766434462a3e2fdd2e7fcbe0b5b035f6c00b9bca",
+    "social-links.html": "ff0f8bc83a6c33a1cfc3db863fc62e0ae9f2b3c31b557cd63655d422d7e2ef6c",
+    "404.html": "c68ec5f7ec032876899ffba41f144fe283d8d96531e24f31d6a79e2316c3de65",
+    "sitemap.html": "c0c51de555fc5cb1b9a57efb410cf992f249b891f65a407005563ab15a0abd22"
+  },
+  "riskApprovalGateRetained": true,
+  "passed": true
+}

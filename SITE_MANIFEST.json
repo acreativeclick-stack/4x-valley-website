@@ -1,7 +1,7 @@
 {
   "name": "4X Valley",
-  "version": "2.1.1-eu-education",
-  "generatedAt": "2026-11-18T18:07:38.045Z",
+  "version": "2.1.2-eu-education",
+  "generatedAt": "2026-11-18T18:17:39.792Z",
   "mode": "eu-education-only",
   "origin": "https://4xvalley.com",
   "pageCount": 52,
@@ -287,7 +287,7 @@
     {
       "file": "risk-disclosure.html",
       "title": "Risk information",
-      "description": "Risk information for the education website. Operator-approved legal text is pending.",
+      "description": "General information about forex, leverage and illustrative educational examples.",
       "group": "Legal",
       "noindex": true
     },

@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-18T18:10:14.090Z",
-  "version": "2.1.1-eu-education",
+  "checkedAt": "2026-11-18T18:20:29.440Z",
+  "version": "2.1.2-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -48,7 +48,7 @@
   "failures": [],
   "consoleErrors": [],
   "passed": true,
-  "method": "CUA rendered DOM regression: social sections and footer links, risk notice, hero loading/layout, default control contrast, local assets and overflow at six screen widths.",
+  "method": "CUA rendered DOM regression: social sections and footer links, risk notice, hero loading/layout, default control contrast, local assets and overflow at six screen widths. Incremental validation: 6 new risk-page checks; 51 unchanged pages verified by SHA-256.",
   "checks": [
     {
       "page": "index.html",
@@ -3863,6 +3863,11 @@
           "1920w"
         ],
         "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
       },
       "social": {
         "failures": [],
@@ -8241,6 +8246,11 @@
         ],
         "separated": true
       },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
       "social": {
         "failures": [],
         "footer": [
@@ -12617,6 +12627,11 @@
           "1920w"
         ],
         "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
       },
       "social": {
         "failures": [],
@@ -16995,6 +17010,11 @@
         ],
         "separated": true
       },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
       "social": {
         "failures": [],
         "footer": [
@@ -21371,6 +21391,11 @@
           "1920w"
         ],
         "separated": true
+      },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
       },
       "social": {
         "failures": [],
@@ -25749,6 +25774,11 @@
         ],
         "separated": true
       },
+      "riskContent": {
+        "actualRiskExplanationPresent": true,
+        "failures": [],
+        "placeholderNodes": 0
+      },
       "social": {
         "failures": [],
         "footer": [
@@ -26315,5 +26345,17 @@
   ],
   "warningLinkNavigation": "http://127.0.0.1:8743/risk-disclosure.html",
   "mobileMenuRestoresWarning": true,
-  "navigationVerifiedAt": "2026-11-18T18:13:32.890Z"
+  "navigationVerifiedAt": "2026-11-18T18:13:32.890Z",
+  "incrementalValidation": {
+    "baseVersion": "2.1.1-eu-education",
+    "recheckedPages": [
+      "risk-disclosure.html"
+    ],
+    "newBrowserChecks": 6,
+    "unchangedPages": 51,
+    "unchangedPageHashesVerified": true,
+    "stylesAndScriptsUnchanged": true,
+    "note": "Existing coverage for 51 byte-identical HTML pages is carried forward; only the changed risk page was rechecked in this revision.",
+    "baseCheckedAt": "2026-11-18T18:10:14.090Z"
+  }
 }
