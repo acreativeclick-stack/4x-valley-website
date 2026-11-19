@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-11-18T18:20:29.440Z",
-  "version": "2.2.0-eu-education",
+  "version": "2.2.1-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -624,9 +624,11 @@
   "riskApprovalGateRetained": true,
   "passed": true,
   "carriedForward": {
-    "baseVersion": "2.1.2-eu-education",
-    "baseCheckedAt": "2026-11-18T18:20:29.440Z",
-    "unchangedRiskPageSha256Verified": true,
-    "checkedAt": "2026-11-18T18:37:00.632Z"
+    "fromVersion": "2.2.0-eu-education",
+    "originalCheckedAt": "2026-11-18T18:20:29.440Z",
+    "verifiedAt": "2026-11-19T21:36:00.561Z",
+    "htmlSha256": "1ceae2a393e49d0be1669cd7c11fd054c0e39f25b50b59a3fd7fbfcb8af9c444",
+    "htmlStylesAndScriptsUnchanged": true,
+    "note": "Historical native checks retained. This page was not retested in the trainer-only revision."
   }
 }

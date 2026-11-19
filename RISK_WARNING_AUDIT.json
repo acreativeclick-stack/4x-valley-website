@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-18T18:37:00.632Z",
-  "version": "2.2.0-eu-education",
+  "checkedAt": "2026-11-19T21:36:00.561Z",
+  "version": "2.2.1-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -48,7 +48,7 @@
   "failures": [],
   "consoleErrors": [],
   "passed": true,
-  "method": "Current rendered coverage: 48 new page/viewport checks; prior checks for 44 byte-identical pages retained. Contact form native invalid-input checks and draft composition tests are recorded separately.",
+  "method": "36 new rendered checks across six changed pages; prior checks for 46 byte-identical pages retained. Trainer photo identity and navigation verified separately.",
   "checks": [
     {
       "page": "index.html",
@@ -4417,10 +4417,6 @@
       "viewport": {
         "width": 320,
         "height": 812
-      },
-      "contact": {
-        "failures": [],
-        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -8868,10 +8864,6 @@
         "width": 390,
         "height": 844
       },
-      "contact": {
-        "failures": [],
-        "present": false
-      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -13317,10 +13309,6 @@
       "viewport": {
         "width": 768,
         "height": 1024
-      },
-      "contact": {
-        "failures": [],
-        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -17768,10 +17756,6 @@
         "width": 1024,
         "height": 900
       },
-      "contact": {
-        "failures": [],
-        "present": false
-      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -22217,10 +22201,6 @@
       "viewport": {
         "width": 1366,
         "height": 1000
-      },
-      "contact": {
-        "failures": [],
-        "present": false
       },
       "controls": {
         "brokenImages": [],
@@ -26668,10 +26648,6 @@
         "width": 1920,
         "height": 1080
       },
-      "contact": {
-        "failures": [],
-        "present": false
-      },
       "controls": {
         "brokenImages": [],
         "buttonCount": 3,
@@ -26755,22 +26731,41 @@
   "mobileMenuRestoresWarning": true,
   "navigationVerifiedAt": "2026-11-18T18:13:32.890Z",
   "incrementalValidation": {
-    "baseVersion": "2.1.2-eu-education",
+    "baseVersion": "2.2.0-eu-education",
     "recheckedPages": [
-      "support.html",
-      "contact.html",
-      "terms.html",
-      "privacy.html",
-      "legal-notice.html",
-      "consumer-rights.html",
-      "cookies.html",
+      "index.html",
+      "trainers.html",
+      "trainer-magda-karapetyan.html",
+      "trainer-sanj-kumar.html",
+      "trainer-akash-ghadiyali.html",
       "sitemap.html"
     ],
-    "newBrowserChecks": 48,
-    "unchangedPages": 44,
+    "newBrowserChecks": 36,
+    "unchangedPages": 46,
     "unchangedPageHashesVerified": true,
     "stylesAndScriptsUnchanged": true,
-    "note": "48 new checks across eight changed pages; previous checks for 44 byte-identical HTML pages are retained.",
-    "baseCheckedAt": "2026-11-18T18:20:29.440Z"
-  }
+    "note": "36 new page/viewport checks. Prior coverage for 46 byte-identical pages is retained.",
+    "baseCheckedAt": "2026-11-18T18:37:00.632Z"
+  },
+  "incrementalHistory": [
+    {
+      "baseVersion": "2.1.2-eu-education",
+      "recheckedPages": [
+        "support.html",
+        "contact.html",
+        "terms.html",
+        "privacy.html",
+        "legal-notice.html",
+        "consumer-rights.html",
+        "cookies.html",
+        "sitemap.html"
+      ],
+      "newBrowserChecks": 48,
+      "unchangedPages": 44,
+      "unchangedPageHashesVerified": true,
+      "stylesAndScriptsUnchanged": true,
+      "note": "48 new checks across eight changed pages; previous checks for 44 byte-identical HTML pages are retained.",
+      "baseCheckedAt": "2026-11-18T18:20:29.440Z"
+    }
+  ]
 }

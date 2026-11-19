@@ -1,5 +1,5 @@
 4X VALLEY — EU EDUCATION WEBSITE HANDOFF
-Version 2.2.0 | 18 November 2026
+Version 2.2.1 | 19 November 2026
 
 STATUS: READY FOR PRIVATE TECHNICAL REVIEW / HOSTING SETUP
 NOT CLEARED FOR PUBLIC EU LAUNCH WHILE OWNER DETAILS / REVIEWS ARE PENDING.
@@ -125,7 +125,7 @@ expiry, blocked storage and Meta loader tested with simulated network only.
 BROWSER_QA.json: earlier 17 November responsive/UI/storage checks and limits.
 CONTROL_VISIBILITY_AUDIT.json: 2.0.1 text visibility regression checks for all
 52 pages, plus expanded menus and privacy preferences.
-RISK_WARNING_AUDIT.json: current 2.2.0 coverage of the warning, page layout and
+RISK_WARNING_AUDIT.json: current 2.2.1 coverage of the warning, page layout and
 default control visibility at six viewport widths on every page.
 HERO_IMAGE_AUDIT.json: current hero-image loading, responsive sizes and placement.
 HERO_IMAGE_PROVENANCE.json: Magnific creations, page mapping and credit costs.
@@ -182,3 +182,9 @@ mail/form service integration; no such provider is configured in this package.
 CONTACT_FORM_TEST_REPORT.json covers validation and exact draft content using
 a simulated DOM with intercepted mailto navigation; no real email was sent.
 CONTACT_FORM_AUDIT.json records the actual rendered form and native validation.
+
+TRAINER UPDATE — VERSION 2.2.1
+Junned replaces Akash in the displayed trainer names and portraits. The owner
+supplied the new photo, and its PNG bytes are preserved. The previous profile
+filename is retained for saved-link compatibility; the profile displays Junned.
+TRAINER_UPDATE_AUDIT.json records image identity, visible names and layout checks.

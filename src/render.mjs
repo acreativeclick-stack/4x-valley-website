@@ -72,7 +72,7 @@ export function localize(html){
   'content-assets/hero-background/hero-background.jpg':'hero-background.jpg',
   'content-assets/trainers-magda/magda-karapetyan.png':'magda-karapetyan.png',
   'content-assets/trainers-sanj/sanj-kumar.png':'sanj-kumar.png',
-  'content-assets/trainers-akash/akash-ghadiyali.png':'akash-ghadiyali.png',
+  'content-assets/trainers-akash/akash-ghadiyali.png':'junned.png',
   'brand-assets/assets-avora-markets.png/avora-markets.png':'avora-markets.png'
  };
  for(const [url,file] of Object.entries(urls))html=html.replaceAll(prefix+url,'./assets/'+file);

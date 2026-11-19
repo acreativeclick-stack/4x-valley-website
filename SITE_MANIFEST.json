@@ -1,7 +1,7 @@
 {
   "name": "4X Valley",
-  "version": "2.2.0-eu-education",
-  "generatedAt": "2026-11-18T18:30:43.475Z",
+  "version": "2.2.1-eu-education",
+  "generatedAt": "2026-11-19T21:28:23.989Z",
   "mode": "eu-education-only",
   "origin": "https://4xvalley.com",
   "pageCount": 52,
@@ -141,7 +141,7 @@
     {
       "file": "trainers.html",
       "title": "The people behind the lessons.",
-      "description": "Trainer profiles listed by 4X Valley: Magda Karapetyan, Sanj Kumar and Akash Ghadiyali.",
+      "description": "Trainer profiles listed by 4X Valley: Magda Karapetyan, Sanj Kumar and Junned.",
       "group": "People"
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "file": "trainer-akash-ghadiyali.html",
-      "title": "Akash Ghadiyali",
-      "description": "Akash Ghadiyali, listed as a trainer by 4X Valley.",
+      "title": "Junned",
+      "description": "Junned, listed as a trainer by 4X Valley.",
       "group": "People"
     },
     {

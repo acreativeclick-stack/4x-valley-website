@@ -14,7 +14,7 @@ if(path.dirname(out)!==project||path.basename(out)!=='public')throw Error('Unsaf
 if(fs.existsSync(out)&&fs.lstatSync(out).isSymbolicLink())throw Error('Generated directory cannot be a symlink');
 if(fs.existsSync(out))fs.rmSync(out,{recursive:true,force:true});
 fs.mkdirSync(path.join(out,'assets/fonts'),{recursive:true});
-for(const file of ['4x-valley-flat.svg','learning-preview.svg','magda-karapetyan.png','sanj-kumar.png','akash-ghadiyali.png'])fs.copyFileSync(path.join(srcDir,'assets',file),path.join(out,'assets',file));
+for(const file of ['4x-valley-flat.svg','learning-preview.svg','magda-karapetyan.png','sanj-kumar.png','junned.png'])fs.copyFileSync(path.join(srcDir,'assets',file),path.join(out,'assets',file));
 fs.copyFileSync(path.join(srcDir,'assets/fonts/inter-latin.woff2'),path.join(out,'assets/fonts/inter-latin.woff2'));
 fs.cpSync(path.join(srcDir,'assets/heroes'),path.join(out,'assets/heroes'),{recursive:true});
 fs.cpSync(path.join(project,'licenses'),path.join(out,'licenses'),{recursive:true});
@@ -56,7 +56,7 @@ const legalSources=[
  ['https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_en.htm','Seller identity, total price, distance-contract and digital-content consumer information.'],
  ['https://eur-lex.europa.eu/eli/dir/2023/2673/oj/eng','Online withdrawal-function requirements; national measures apply from 19 June 2026. Actual contracting platform requires review.']
 ].map(([url,usedFor])=>({url,usedFor}));
-const manifest={name:config.name,version:'2.2.0-eu-education',generatedAt:new Date().toISOString(),mode:config.mode,origin:config.origin,pageCount:pages.length,pages:pages.map(({body,...p})=>p),assets,staging:assets.staging,publicLaunchReady:!assets.staging,placeholdersPermitted:config.allowPlaceholders,placeholderFields:missing,launchBlockers,paidEnrolmentEnabled:false,legacyPortalConnected:false,externalRuntimeDependencies:marketing?[{type:'consented advertising only',url:'https://connect.facebook.net/en_US/fbevents.js'}]:[],sources:[...sourceReferences,...legalSources]};
+const manifest={name:config.name,version:'2.2.1-eu-education',generatedAt:new Date().toISOString(),mode:config.mode,origin:config.origin,pageCount:pages.length,pages:pages.map(({body,...p})=>p),assets,staging:assets.staging,publicLaunchReady:!assets.staging,placeholdersPermitted:config.allowPlaceholders,placeholderFields:missing,launchBlockers,paidEnrolmentEnabled:false,legacyPortalConnected:false,externalRuntimeDependencies:marketing?[{type:'consented advertising only',url:'https://connect.facebook.net/en_US/fbevents.js'}]:[],sources:[...sourceReferences,...legalSources]};
 fs.writeFileSync(path.join(project,'SITE_MANIFEST.json'),JSON.stringify(manifest,null,2));
 fs.writeFileSync(path.join(project,'CONTENT_SOURCES.json'),JSON.stringify(manifest.sources,null,2));
 console.log(JSON.stringify({pages:pages.length,output:out,staging:assets.staging,launchBlockers:launchBlockers.length,marketing,assets:{css:assets.css,js:assets.js,privacy:assets.privacy}}));

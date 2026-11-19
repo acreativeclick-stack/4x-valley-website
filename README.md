@@ -1,6 +1,6 @@
 # 4X Valley education website
 
-Version **2.2.0**. Responsive static website with 52 pages, local brand assets,
+Version **2.2.1**. Responsive static website with 52 pages, local brand assets,
 Magnific hero images, risk information and opt-in device-storage controls.
 
 This snapshot is prepared for private technical review and hosting setup.
@@ -42,6 +42,7 @@ The preview is served at `http://127.0.0.1:8743/`.
 - `RISK_WARNING_AUDIT.json`: current warning, layout and default-control checks.
 - `SOCIAL_LINKS_AUDIT.json`: Facebook/Instagram page and footer checks.
 - `RISK_PAGE_AUDIT.json`: six risk-page checks after draft-panel removal; unchanged-page coverage is verified by SHA-256.
+- `TRAINER_UPDATE_AUDIT.json`: Junned name, original portrait, navigation and 36 responsive checks.
 - `CONTACT_FORM_AUDIT.json`: responsive form and native invalid-input checks.
 - `CONTACT_FORM_TEST_REPORT.json`: four email-draft tests; no real email sent.
 - `CONSENT_TEST_REPORT.json`: 13 passing consent tests.

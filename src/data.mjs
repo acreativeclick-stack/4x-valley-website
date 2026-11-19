@@ -15,7 +15,8 @@ export const topics = [
 export const trainers = [
  {id:'magda-karapetyan',name:'Magda Karapetyan',image:'magda-karapetyan.png'},
  {id:'sanj-kumar',name:'Sanj Kumar',image:'sanj-kumar.png'},
- {id:'akash-ghadiyali',name:'Akash Ghadiyali',image:'akash-ghadiyali.png'}
+ // Keep the existing route id so saved profile links continue to resolve.
+ {id:'akash-ghadiyali',name:'Junned',image:'junned.png'}
 ];
 
 export const lessons = [

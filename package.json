@@ -1,6 +1,6 @@
 {
   "name": "4x-valley-website",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "private": true,
   "type": "module",
   "description": "Responsive EU education-only 4X Valley static website with opt-in device storage",

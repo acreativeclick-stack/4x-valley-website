@@ -1,0 +1,3480 @@
+{
+  "version": "2.2.1-eu-education",
+  "checkedAt": "2026-11-19T21:36:00.561Z",
+  "assets": {
+    "css": "styles.4aca3aff77.css",
+    "js": "app.eef2caeb74.js",
+    "privacy": "privacy.623dab795a.js",
+    "consentSettings": {
+      "available": {
+        "functional": true,
+        "analytics": false,
+        "marketing": false
+      },
+      "retentionDays": 180,
+      "metaPixelId": "",
+      "signature": "738409b721"
+    },
+    "staging": true
+  },
+  "passed": true,
+  "changedPages": [
+    "index.html",
+    "trainers.html",
+    "trainer-magda-karapetyan.html",
+    "trainer-sanj-kumar.html",
+    "trainer-akash-ghadiyali.html",
+    "sitemap.html"
+  ],
+  "viewportChecks": 36,
+  "unchangedPageHashes": {
+    "404.html": "c68ec5f7ec032876899ffba41f144fe283d8d96531e24f31d6a79e2316c3de65",
+    "about.html": "c2747706958b906ef4da3ef4663710609203a0d8af4931a00e0147e6369d218e",
+    "become-ib.html": "aa94c875288e724dc4128cdff6d9a96ee872ac2758aabcd4ff412afe8423eab9",
+    "careers.html": "0fd8fb574e4e3d6cd14fe469d408f3d833917fa66e7837b015fa34d9b012f1e9",
+    "coming-soon.html": "b0f1a7bb105d3c2f48255deabb791047ee9704057a47692169b69a5f71a5db10",
+    "consumer-rights.html": "cb434fcea64a92a2a2379ecdd951510323645ac8cc7bcbe0b3d67c6546961ee9",
+    "contact.html": "13834d22a467164850fa4c2b8d21f10635dfa221ce48fa68d43b29af89e4a8d6",
+    "cookies.html": "1e293b951cb184d849a3e43d767c8b1d521652c80ac0121289131a9c4acb4385",
+    "course-forex-mystery-hub.html": "51ea02db9013039b301fba6c102f876833ae101950aaee1ec5d702c9b5f63d48",
+    "course-forex-success-path.html": "8cffa178acc0ca698b8427a688b9b25b5c862df845504c6334ecdd473341abdd",
+    "course-tradessmart-fx.html": "2a45189c5f1e143ed711affa86b62f86378e99e0c050acb6b981b7cf08d225a5",
+    "courses.html": "ec1be261d5098f6ca0fac4dea1cd5ad91490fc570e74b00575359f0459b2d86c",
+    "favorites.html": "52703b03fa729adadaa9035c6d6e0f7d40fe90f7a2f7922ac274b0b61525dcf7",
+    "forgot-password.html": "57aa98c491fa20d0f4aefdbdbad669d658161efa0221455e37f1d045f65d8af2",
+    "legal-notice.html": "de11fe2875dbf84ce27d89169edb0d4d71bd1c265bb02d0b636561ded2789ac2",
+    "lesson-juneed-part-2-r1.html": "740a4887c23d3c7da636d2615b97b5faa4fed16e957e91df10b20f0ed2018b9b",
+    "lesson-juneed-part-2-r2.html": "d5c80b09b72b6c0d7eb67013ec09b97d1d018b81c04bc544586efb4d6b98339b",
+    "lesson-juneed-part-2-r3.html": "d28529f188fcc546f8e66b4197ed9bc7f6d5187377444b3d94d55fc44872a9af",
+    "lesson-juneed-part-2-r4.html": "6605a9e61ad92ba9a6e50cbe6ee25d60ecc1921d691fb53207150cd7e71a55f2",
+    "lesson-juneed-part-2-r5.html": "97c8b3e98e4a6b98f64a3188fc2c6375911c19651ddf4c2fee60e0d479994f6e",
+    "lesson-juneed-part-3-r1.html": "572cc9941990da95f70fd8955fb50b6c7418926a90373cb3b261a2540ddc2d03",
+    "lesson-juneed-part-3-r2.html": "9c3c2ee77a24900c0eb3a8a892c36fac526460542beb2621e1e2c56c4b506610",
+    "lesson-juneed-part-3-r3.html": "6da163bd484c5a1808608eb8ab5431e111c61ec6d1c039d6bee2e973baa7d980",
+    "markets.html": "0108f35c3d07f9a14c822006ffad54a45f54985109ede0d7adb4ec3f08fdb078",
+    "membership-monthly.html": "d1a1bc01df0a6b4457f637e6c3b3edde8e611ca7eedd696ad9e03bee71be8618",
+    "membership-yearly.html": "fa19dc2d6438267dce5f7b7fb94ea3952a30333a2e3abaf3f56e06545c257f50",
+    "membership.html": "6170ccd06e07ba1edbed4217f217d3a853e698dfbb270d6b275d3c8a7e2b04b8",
+    "platform-android.html": "760a46d8558bd044f0f0016fe689da45b1e0aa3dddaa4371e57a80ac94e3f805",
+    "platform-desktop.html": "86e45a5f7a96d9f2a3e01d86c34d4a70352fe752ee66084a1c44f540a9c4a5cc",
+    "platform-ios.html": "f2f8ef441a35ec96dddcefb108eced3d68e9aa055f0b7fcdb9033ccefbe4e860",
+    "platforms.html": "437825a8662dea3d9ca6e210a34e9a729c438cc549b20b6f2dc46fd305397116",
+    "privacy.html": "7fd7c22b8e3f68a90ded47dbd6851608deb8989b48b3e211ed6443a50f2e7f97",
+    "recorded-sessions.html": "1b7ff141e760a0059f85d75f2328eca8b56ca31e1f6af48ca9700ea9c1145043",
+    "register.html": "e935aff8ca05b6866383eb1742f4d2aee54aeea4bb76b3b22258136befa1975e",
+    "risk-disclosure.html": "1ceae2a393e49d0be1669cd7c11fd054c0e39f25b50b59a3fd7fbfcb8af9c444",
+    "sign-in.html": "be53f0a5e262a0c175639a86817d4b8ff682c74ee23dd23e477001eb5fc5b8f3",
+    "social-links.html": "ff0f8bc83a6c33a1cfc3db863fc62e0ae9f2b3c31b557cd63655d422d7e2ef6c",
+    "social-trading.html": "5282f2fb60f1b2ffc333b6b48edb5fe7347eb0aa3cb19a47d01a129fc2e347cf",
+    "support.html": "0dd14283fc5527c7c571b9d11c2433840dc18affcbff8c5b4aefa99f53f53ae6",
+    "terms.html": "d057880feb63080e9912cf2db4db06ae203ca71b8efe7c0ffed191fe393a6bf1",
+    "topic-fundamental-analysis.html": "28595566d1cf20208bb9bf91476aaa3b1e91b7fdb960de3f833183f2b8b28140",
+    "topic-risk-management.html": "7eab6b99c70a314eb82749bb45493433bf06d14fc884018d061d0d3870bd29a5",
+    "topic-technical-analysis.html": "6fb0967b6d7fd220ffe289e7272ba7db558cd78c1510ae73f1573721fd08bdb3",
+    "topic-trading-basics.html": "9b4409292c28a99fa28bc3579fb1c60f57044c3f34b4c13a866b759180cc769f",
+    "topic-trading-strategies.html": "df5e495f157cd8bbc766fdcab5308a0ccc63283cf87e2828515ec41875183e01",
+    "trading.html": "d538090f6fa180c8560e3b96deafb9f0b86a2e9971964fddd3d7ba66866d70f0"
+  },
+  "photoSha256": {
+    "original": "ce8af5bfb7ca9ef170980099e304cd8b46866142e5b264f6f18c5ccd414dd7ef",
+    "source": "ce8af5bfb7ca9ef170980099e304cd8b46866142e5b264f6f18c5ccd414dd7ef",
+    "public": "ce8af5bfb7ca9ef170980099e304cd8b46866142e5b264f6f18c5ccd414dd7ef"
+  },
+  "photoBytesPreserved": true,
+  "photoDimensions": {
+    "width": 513,
+    "height": 292
+  },
+  "legacyProfileRouteRetained": "trainer-akash-ghadiyali.html",
+  "checks": [
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 60,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-640.6a8b24b4ff.webp",
+        "displayHeight": 199,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 320,
+        "height": 812
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 74,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 305,
+        "width": 305
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-640.a20cea10ea.webp",
+        "displayHeight": 198,
+        "displayWidth": 265,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 229,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 60,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-640.6a8b24b4ff.webp",
+        "displayHeight": 251,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 74,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-640.a20cea10ea.webp",
+        "displayHeight": 250,
+        "displayWidth": 335,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 178,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "16px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "16px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 88
+      }
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 60,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-1280.5c05c921ce.webp",
+        "displayHeight": 392,
+        "displayWidth": 697,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-1280.0561243988.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-1280.0561243988.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-1280.0561243988.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-1280.0561243988.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 74,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 753,
+        "width": 753
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-1280.0cc218d7df.webp",
+        "displayHeight": 508,
+        "displayWidth": 680,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 110,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 60,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-1280.5c05c921ce.webp",
+        "displayHeight": 531,
+        "displayWidth": 945,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 29,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 74,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1009,
+        "width": 1009
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-640.a20cea10ea.webp",
+        "displayHeight": 322,
+        "displayWidth": 432,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 100
+      }
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 67,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-1920.d48f2e9b65.webp",
+        "displayHeight": 715,
+        "displayWidth": 1271,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1366,
+        "height": 1000
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 81,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1351,
+        "width": 1351
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-640.a20cea10ea.webp",
+        "displayHeight": 431,
+        "displayWidth": 577,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "index.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 20,
+        "controls": 67,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Illustrative study scene with a learner, notebook and laptop.",
+        "caption": "",
+        "currentFile": "study-1920.d48f2e9b65.webp",
+        "displayHeight": 783,
+        "displayWidth": 1392,
+        "failures": [],
+        "imageCount": 1,
+        "key": "study",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": false,
+            "naturalHeight": 0,
+            "naturalWidth": 0,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainers.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-akash-ghadiyali.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 1,
+        "portraits": [
+          {
+            "alt": "Junned",
+            "loaded": true,
+            "naturalHeight": 292,
+            "naturalWidth": 513,
+            "src": "./assets/junned.png"
+          }
+        ]
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-magda-karapetyan.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "trainer-sanj-kumar.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 4,
+        "controls": 36,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Illustrative small-group workshop with learners reviewing a printed diagram.",
+        "caption": "Illustrative learning scene.",
+        "currentFile": "classroom-640.586088f2fb.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "classroom",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    },
+    {
+      "page": "sitemap.html",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "controls": {
+        "brokenImages": [],
+        "buttonCount": 3,
+        "controls": 81,
+        "failures": [],
+        "h1": 1,
+        "privacyControls": true,
+        "scrollWidth": 1905,
+        "width": 1905
+      },
+      "hero": {
+        "alt": "Plum and ivory course notebooks beside handwritten study notes.",
+        "caption": "",
+        "currentFile": "library-640.a20cea10ea.webp",
+        "displayHeight": 474,
+        "displayWidth": 635,
+        "failures": [],
+        "imageCount": 1,
+        "key": "library",
+        "loaded": true,
+        "local": true,
+        "responsiveWidths": [
+          "640w",
+          "1280w",
+          "1920w"
+        ],
+        "separated": true
+      },
+      "social": {
+        "failures": [],
+        "footer": [
+          {
+            "href": "social-links.html#facebook",
+            "name": "Facebook"
+          },
+          {
+            "href": "social-links.html#instagram",
+            "name": "Instagram"
+          }
+        ],
+        "sections": [],
+        "socialPage": false
+      },
+      "trainer": {
+        "failures": [],
+        "portraitCount": 0,
+        "portraits": []
+      },
+      "warning": {
+        "afterNavigation": true,
+        "background": "rgb(248, 245, 237)",
+        "beforeMain": true,
+        "failures": [],
+        "fitsViewport": true,
+        "height": 83,
+        "present": true,
+        "text": "Education only. Forex and leveraged products carry a high risk of loss. Examples are illustrative and do not constitute personalised investment advice. Education does not guarantee trading profits. Read risk information.",
+        "textChecks": [
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "P",
+            "visible": true
+          },
+          {
+            "color": "rgb(41, 16, 63)",
+            "contrast": 15.54,
+            "fontSize": "17px",
+            "tag": "STRONG",
+            "visible": true
+          },
+          {
+            "color": "rgb(122, 18, 212)",
+            "contrast": 6.73,
+            "fontSize": "17px",
+            "tag": "A",
+            "visible": true
+          }
+        ],
+        "top": 112
+      }
+    }
+  ],
+  "desktopPortrait": {
+    "loaded": true,
+    "naturalHeight": 292,
+    "naturalWidth": 513,
+    "src": "./assets/junned.png"
+  },
+  "mobilePortrait": {
+    "displayHeight": 326.6974182128906,
+    "displayWidth": 343.03338623046875,
+    "loaded": true,
+    "naturalHeight": 292,
+    "naturalWidth": 513,
+    "src": "./assets/junned.png"
+  },
+  "nativeNavigation": {
+    "url": "http://127.0.0.1:8743/trainer-akash-ghadiyali.html",
+    "heading": "Junned",
+    "passed": true
+  },
+  "failures": [],
+  "consoleErrors": [],
+  "incrementalValidation": {
+    "baseVersion": "2.2.0-eu-education",
+    "recheckedPages": [
+      "index.html",
+      "trainers.html",
+      "trainer-magda-karapetyan.html",
+      "trainer-sanj-kumar.html",
+      "trainer-akash-ghadiyali.html",
+      "sitemap.html"
+    ],
+    "newBrowserChecks": 36,
+    "unchangedPages": 46,
+    "unchangedPageHashesVerified": true,
+    "stylesAndScriptsUnchanged": true,
+    "note": "36 new page/viewport checks. Prior coverage for 46 byte-identical pages is retained."
+  },
+  "screenshots": [
+    "review-previews/junned-trainer-desktop.jpg",
+    "review-previews/junned-trainer-mobile.jpg"
+  ]
+}

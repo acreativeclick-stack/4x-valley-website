@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-11-18T18:37:00.632Z",
-  "version": "2.2.0-eu-education",
+  "version": "2.2.1-eu-education",
   "assets": {
     "css": "styles.4aca3aff77.css",
     "js": "app.eef2caeb74.js",
@@ -856,5 +856,13 @@
   },
   "failures": [],
   "consoleErrors": [],
-  "passed": true
+  "passed": true,
+  "carriedForward": {
+    "fromVersion": "2.2.0-eu-education",
+    "originalCheckedAt": "2026-11-18T18:37:00.632Z",
+    "verifiedAt": "2026-11-19T21:36:00.561Z",
+    "htmlSha256": "13834d22a467164850fa4c2b8d21f10635dfa221ce48fa68d43b29af89e4a8d6",
+    "htmlStylesAndScriptsUnchanged": true,
+    "note": "Historical native checks retained. This page was not retested in the trainer-only revision."
+  }
 }
